@@ -1,0 +1,100 @@
+<!-- 
+*******************************************************
+***** This DTD validates GEDCOM v 5.5.1 	   ********
+***** Copyright 2014 K. Ouelaa & R. Oubraim  ********
+******************************************************
+-->
+
+
+	<!-- GEDCOM : root -->
+<!ELEMENT gedcom (head? | subm? | indi+ | fam | trlr?)*>
+
+	<!-- HEAD -->
+<!ELEMENT head (sour? | dest? | date?| char? | file? | gedc?)*>
+
+<!ELEMENT sour (#PCDATA | vers | name | corp)* >
+<!ATTLIST sour id ID #IMPLIED>
+  
+<!ELEMENT vers (#PCDATA)>
+<!ELEMENT corp (#PCDATA | addr | phon)* >
+<!ELEMENT dest (#PCDATA)>
+<!ELEMENT char (#PCDATA)>
+<!ELEMENT file (#PCDATA)>
+<!ELEMENT gedc (vers)?>
+
+
+	<!-- 0 SUBM -->
+<!ELEMENT subm (sname | addr | phon | comm)*>
+<!ELEMENT sname (#PCDATA)>
+<!ATTLIST subm id ID #REQUIRED>
+
+<!ELEMENT addr (#PCDATA | cont)*>
+<!ELEMENT phon (#PCDATA)>
+<!ELEMENT comm (#PCDATA | cont)*>
+<!ELEMENT cont (#PCDATA)>
+
+	<!-- 0 INDI -->
+<!ELEMENT indi (name? | titl? | sex? | sour? | chan? | birt? | deat? | buri? | refn? | chr? | famc? | fams | obje?)*>
+<!ATTLIST indi id ID #REQUIRED>
+
+<!ELEMENT name (firstname?,lastname?)*>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT lastname (#PCDATA)>
+
+<!ELEMENT titl (#PCDATA)>
+<!ELEMENT sex EMPTY>
+<!ATTLIST sex type (M|F) #REQUIRED>
+<!-- sour deja defini-->
+<!ELEMENT chan EMPTY>
+<!ELEMENT birt (date?| plac?)*>
+    <!-- DATE -->
+<!ELEMENT date (d?,m?,y?)>
+<!ELEMENT d (#PCDATA)>
+<!ELEMENT m (#PCDATA)>
+<!ELEMENT y (#PCDATA)>
+<!ATTLIST date spec CDATA #IMPLIED>
+	<!-- PLAC -->
+<!ELEMENT plac (#PCDATA)>
+
+<!ELEMENT deat (date? | plac?)*>
+<!ELEMENT buri (date? | plac?)*>
+<!ELEMENT refn (#PCDATA)>
+<!ELEMENT chr (date? | plac?)*>
+
+<!ELEMENT famc EMPTY>
+<!ATTLIST famc ref IDREF #REQUIRED>
+
+<!ELEMENT fams EMPTY>	
+<!ATTLIST fams ref IDREF #REQUIRED>
+
+
+	<!-- 0 FAM  -->
+<!ELEMENT fam (husb? | wife? | chil | div? | marr? | obje?)*>
+<!ATTLIST fam id ID #REQUIRED>
+
+<!ELEMENT husb EMPTY>
+<!ATTLIST husb ref IDREF #REQUIRED>
+
+<!ELEMENT wife EMPTY>
+<!ATTLIST wife ref IDREF #REQUIRED>
+
+<!ELEMENT chil EMPTY>
+<!ATTLIST chil ref IDREF #REQUIRED>
+
+<!ELEMENT div EMPTY>
+<!ATTLIST div isdiv (Y|N) #IMPLIED>
+
+<!ELEMENT marr (date? | plac?)*>
+
+<!ELEMENT obje (file?| form?| titl?)*>
+
+<!ELEMENT form (#PCDATA)>
+
+
+	<!-- 0 TRLR -->
+<!ELEMENT trlr EMPTY>
+
+
+
+
+

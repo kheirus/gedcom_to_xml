@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gedcom SYSTEM "gedcom.dtd">
+<gedcom>
+  <head>
+    <sour>UNSPECIFIED</sour>
+    <char>ANSEL</char>
+  </head>
+  <indi id="I10">
+    <name>
+      <firstname>Nicole</firstname>
+      <lastname>von Neumann</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F5" />
+  </indi>
+  <indi id="I15">
+    <name>
+      <firstname>David</firstname>
+      <lastname>Turing</lastname>
+    </name>
+    <sex type="M" />
+    <famc ref="F4" />
+  </indi>
+  <indi id="I9">
+    <name>
+      <firstname>Manuel</firstname>
+      <lastname>Turing</lastname>
+    </name>
+    <sex type="M" />
+    <fams ref="F5" />
+    <famc ref="F2" />
+  </indi>
+  <indi id="I12">
+    <name>
+      <firstname>S?verine</firstname>
+      <lastname>B?chi</lastname>
+    </name>
+    <sex type="F" />
+    <famc ref="F3" />
+  </indi>
+  <indi id="I8">
+    <name>
+      <firstname>Laurence</firstname>
+      <lastname>Church</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F4" />
+  </indi>
+  <indi id="I13">
+    <name>
+      <firstname>Martine</firstname>
+      <lastname>B?chi</lastname>
+    </name>
+    <sex type="F" />
+    <famc ref="F3" />
+  </indi>
+  <indi id="I14">
+    <name>
+      <firstname>Fran?oise</firstname>
+      <lastname>Turing</lastname>
+    </name>
+    <sex type="F" />
+    <famc ref="F4" />
+  </indi>
+  <indi id="I6">
+    <name>
+      <firstname>Nicolas</firstname>
+      <lastname>B?chi</lastname>
+    </name>
+    <sex type="M" />
+    <fams ref="F3" />
+  </indi>
+  <indi id="I1">
+    <name>
+      <firstname>J?r?me</firstname>
+      <lastname>Turing</lastname>
+    </name>
+    <sex type="M" />
+    <fams ref="F1" />
+  </indi>
+  <indi id="I7">
+    <name>
+      <firstname>Arnaud</firstname>
+      <lastname>Turing</lastname>
+    </name>
+    <sex type="M" />
+    <fams ref="F4" />
+    <famc ref="F2" />
+  </indi>
+  <indi id="I2">
+    <name>
+      <firstname>Estelle</firstname>
+      <lastname>Knuth</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F1" />
+  </indi>
+  <indi id="I3">
+    <name>
+      <firstname>Frederic</firstname>
+      <lastname>Turing</lastname>
+    </name>
+    <sex type="M" />
+    <fams ref="F2" />
+    <famc ref="F1" />
+  </indi>
+  <indi id="I5">
+    <name>
+      <firstname>Caroline</firstname>
+      <lastname>Rabin</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F2" />
+  </indi>
+  <indi id="I11">
+    <name>
+      <firstname>Dylan</firstname>
+      <lastname>B?chi</lastname>
+    </name>
+    <sex type="M" />
+    <famc ref="F3" />
+  </indi>
+  <indi id="I4">
+    <name>
+      <firstname>Julie</firstname>
+      <lastname>Turing</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F3" />
+    <famc ref="F1" />
+  </indi>
+  <indi id="I17">
+    <name>
+      <firstname>Sylvain</firstname>
+      <lastname>B?chi</lastname>
+    </name>
+    <sex type="M" />
+    <famc ref="F3" />
+  </indi>
+  <indi id="I16">
+    <name>
+      <firstname>Alan</firstname>
+      <lastname>Turing</lastname>
+    </name>
+    <sex type="M" />
+    <famc ref="F5" />
+    <obje>
+      <file>http://fr.wikipedia.org/wiki/Alan_Turing</file>
+      <form>html</form>
+      <titl>Page wikipedia</titl>
+    </obje>
+  </indi>
+  <fam id="F5">
+    <husb ref="I9" />
+    <wife ref="I10" />
+    <chil ref="I16" />
+  </fam>
+  <fam id="F4">
+    <husb ref="I7" />
+    <wife ref="I8" />
+    <chil ref="I14" />
+    <chil ref="I15" />
+  </fam>
+  <fam id="F1">
+    <husb ref="I1" />
+    <wife ref="I2" />
+    <chil ref="I3" />
+    <chil ref="I4" />
+    <marr>
+      <date>
+        <d>7</d>
+        <m>AUG</m>
+        <y>1987</y>
+      </date>
+      <plac>United States</plac>
+    </marr>
+    <obje>
+      <file>http://www.liafa.univ-paris-diderot.fr/~carton/gaston-jeanne.gif</file>
+      <form>gif</form>
+      <titl>TITL</titl>
+    </obje>
+  </fam>
+  <fam id="F3">
+    <husb ref="I6" />
+    <wife ref="I4" />
+    <chil ref="I17" />
+    <chil ref="I11" />
+    <chil ref="I12" />
+    <chil ref="I13" />
+    <marr>
+      <date>
+        <d>13</d>
+        <m>JUN</m>
+        <y>2001</y>
+      </date>
+      <plac>Italie</plac>
+    </marr>
+  </fam>
+  <fam id="F2">
+    <husb ref="I3" />
+    <wife ref="I5" />
+    <chil ref="I7" />
+    <chil ref="I9" />
+    <marr>
+      <date>
+        <d>7</d>
+        <m>APR</m>
+        <y>1997</y>
+      </date>
+      <plac>France</plac>
+    </marr>
+  </fam>
+  <trlr />
+</gedcom>

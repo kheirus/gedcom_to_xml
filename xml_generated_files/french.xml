@@ -1,0 +1,5905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gedcom SYSTEM "gedcom.dtd">
+<gedcom>
+  <head>
+    <sour>ROOTSIII</sour>
+    <date>
+      <d>13</d>
+      <m>JUL</m>
+      <y>1989</y>
+    </date>
+    <file>ROYAL.GED</file>
+    <char>ANSEL</char>
+  </head>
+  <indi id="R134">
+    <name>
+      <firstname>Joao IV</firstname>
+    </name>
+  </indi>
+  <indi id="R115">
+    <name>
+      <firstname>Sophia</firstname>
+    </name>
+  </indi>
+  <indi id="R432">
+    <name>
+      <firstname>Umberto II</firstname>
+    </name>
+  </indi>
+  <indi id="R329">
+    <name>
+      <firstname>Harold I Harefoot</firstname>
+    </name>
+  </indi>
+  <indi id="R446">
+    <name>
+      <firstname>Popa, or Papie</firstname>
+    </name>
+  </indi>
+  <indi id="R339">
+    <name>
+      <firstname>Esla</firstname>
+    </name>
+  </indi>
+  <indi id="R125">
+    <name>
+      <firstname>Mary</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F36" />
+    <famc ref="F30" />
+    <birt>
+      <date>
+        <d>4</d>
+        <m>NOV</m>
+        <y>1631</y>
+      </date>
+      <plac>Palace, St. James's</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>24</d>
+        <m>DEC</m>
+        <y>1660</y>
+      </date>
+      <plac>Palace, Whitehall</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R144">
+    <name>
+      <firstname>Anne</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <titl>Queen of England</titl>
+    <sex type="F" />
+    <famc ref="F33" />
+    <birt>
+      <date>
+        <d>6</d>
+        <m>FEB</m>
+      </date>
+      <plac>Palace, St. James's</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>1</d>
+        <m>AUG</m>
+        <y>1714</y>
+      </date>
+      <plac>Palace, Kensington</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R407">
+    <name>
+      <firstname>John</firstname>
+    </name>
+  </indi>
+  <indi id="R359">
+    <name>
+      <firstname>Cynewulf</firstname>
+    </name>
+  </indi>
+  <indi id="R11">
+    <name>
+      <firstname>Adela</firstname>
+    </name>
+  </indi>
+  <indi id="R31">
+    <name>
+      <firstname>Geoffrey VI Martel</firstname>
+    </name>
+  </indi>
+  <indi id="R426">
+    <name>
+      <firstname>Baldwin</firstname>
+    </name>
+  </indi>
+  <indi id="R431">
+    <name>
+      <firstname>Raymond V</firstname>
+    </name>
+  </indi>
+  <indi id="R349">
+    <name>
+      <firstname>Cenwalh</firstname>
+    </name>
+  </indi>
+  <indi id="R412">
+    <name>
+      <firstname>Andrew Albert Christian</firstname>
+      <lastname>of Windsor</lastname>
+    </name>
+    <sex type="M" />
+    <famc ref="F153" />
+    <birt>
+      <date>
+        <d>19</d>
+        <m>FEB</m>
+        <y>1960</y>
+      </date>
+    </birt>
+  </indi>
+  <indi id="R135">
+    <name>
+      <firstname>Luisa Maria</firstname>
+      <lastname>de Guzman</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F32" />
+    <famc ref="F187" />
+    <deat />
+  </indi>
+  <indi id="R433">
+    <name>
+      <firstname>Halfdan the Old</firstname>
+    </name>
+  </indi>
+  <indi id="R116">
+    <name>
+      <firstname>Ernst</firstname>
+      <lastname>August</lastname>
+    </name>
+    <titl>Duke of Hanover</titl>
+    <sex type="M" />
+    <fams ref="F28" />
+    <famc ref="F184" />
+    <birt>
+      <date>
+        <d>20</d>
+        <m>NOV</m>
+        <y>1629</y>
+      </date>
+      <plac>Herzberg</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>23</d>
+        <m>JAN</m>
+      </date>
+      <plac>Herrenhausen</plac>
+    </deat>
+    <buri>
+      <plac>Hanover</plac>
+    </buri>
+  </indi>
+  <indi id="R32">
+    <name>
+      <firstname>William</firstname>
+    </name>
+  </indi>
+  <indi id="R126">
+    <name>
+      <firstname>Elizabeth</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <sex type="F" />
+    <famc ref="F30" />
+    <birt>
+      <date>
+        <d>29</d>
+        <m>DEC</m>
+        <y>1635</y>
+      </date>
+      <plac>Palace, St. James's</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>8</d>
+        <m>SEP</m>
+        <y>1650</y>
+      </date>
+      <plac>Castle, Carisbrooke, Isle of Wight</plac>
+    </deat>
+    <buri>
+      <plac>Church, St. Thomas's, Isle of Wight</plac>
+    </buri>
+  </indi>
+  <indi id="R447">
+    <name>
+      <firstname>Berenger</firstname>
+    </name>
+  </indi>
+  <indi id="R145">
+    <name>
+      <firstname>Henrietta</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <sex type="F" />
+    <famc ref="F33" />
+    <birt>
+      <date>
+        <d>13</d>
+        <m>JAN</m>
+      </date>
+      <plac>Palace, Whitehall</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>15</d>
+        <m>NOV</m>
+        <y>1669</y>
+      </date>
+      <plac>Palace, St. James's</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R146">
+    <name>
+      <firstname>Catherine</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <sex type="F" />
+    <famc ref="F33" />
+    <birt>
+      <date>
+        <d>9</d>
+        <m>FEB</m>
+      </date>
+      <plac>Palace, Whitehall</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>5</d>
+        <m>DEC</m>
+        <y>1671</y>
+      </date>
+      <plac>Palace, St. James's</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R12">
+    <name>
+      <firstname>Constance</firstname>
+    </name>
+  </indi>
+  <indi id="R427">
+    <name>
+      <firstname>Eustace IV</firstname>
+    </name>
+  </indi>
+  <indi id="R136">
+    <name>
+      <firstname>Juan Manuel Domingo</firstname>
+      <lastname>de Guzman</lastname>
+    </name>
+    <titl>Duke of Medina</titl>
+    <sex type="M" />
+    <fams ref="F187" />
+    <deat />
+  </indi>
+  <indi id="R413">
+    <name>
+      <firstname>Edward Anthony Richard</firstname>
+      <lastname>of Windsor</lastname>
+    </name>
+    <sex type="M" />
+    <famc ref="F153" />
+    <birt>
+      <date>
+        <d>10</d>
+        <m>MAR</m>
+        <y>1964</y>
+      </date>
+    </birt>
+  </indi>
+  <indi id="R406">
+    <name>
+      <firstname>Henry</firstname>
+    </name>
+  </indi>
+  <indi id="R327">
+    <name>
+      <firstname>Canute the Great</firstname>
+    </name>
+  </indi>
+  <indi id="R113">
+    <name>
+      <firstname>Louise Juliana</firstname>
+    </name>
+  </indi>
+  <indi id="R434">
+    <name>
+      <firstname>Ivar, Earl of the Uplands</firstname>
+    </name>
+  </indi>
+  <indi id="R132">
+    <name>
+      <firstname>Louis XIII</firstname>
+    </name>
+  </indi>
+  <indi id="R444">
+    <name>
+      <firstname>Bergljot</firstname>
+    </name>
+  </indi>
+  <indi id="R127">
+    <name>
+      <firstname>Henry</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <titl>Earl of Cambridg</titl>
+    <sex type="M" />
+    <famc ref="F30" />
+    <birt>
+      <date>
+        <d>8</d>
+        <m>JUL</m>
+        <y>1640</y>
+      </date>
+      <plac>Oatlands, Surrey</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>13</d>
+        <m>SEP</m>
+        <y>1660</y>
+      </date>
+      <plac>Palace, Whitehall</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R147">
+    <name>
+      <firstname>Mary Beatrice Eleanora</firstname>
+    </name>
+  </indi>
+  <indi id="R424">
+    <name>
+      <firstname>Eustace III</firstname>
+    </name>
+  </indi>
+  <indi id="R191">
+    <name>
+      <firstname>Pedro I</firstname>
+    </name>
+  </indi>
+  <indi id="R405">
+    <name>
+      <firstname>Thomas</firstname>
+    </name>
+  </indi>
+  <indi id="R414">
+    <name>
+      <firstname>Elizabeth Angela Marguerite</firstname>
+      <lastname>Bowes-Lyon</lastname>
+    </name>
+    <titl>Queen of England</titl>
+    <sex type="F" />
+    <fams ref="F154" />
+    <birt>
+      <date>
+        <d>4</d>
+        <m>AUG</m>
+        <y>1900</y>
+      </date>
+      <plac>St. Paul's, Waldenbury, Herts.</plac>
+    </birt>
+  </indi>
+  <indi id="R112">
+    <name>
+      <firstname>Friedrich IV</firstname>
+    </name>
+  </indi>
+  <indi id="R347">
+    <name>
+      <firstname>Cynegils</firstname>
+    </name>
+  </indi>
+  <indi id="R435">
+    <name>
+      <firstname>Eystein Glumra</firstname>
+    </name>
+  </indi>
+  <indi id="R328">
+    <name>
+      <firstname>Aelfgifu</firstname>
+    </name>
+  </indi>
+  <indi id="R114">
+    <name>
+      <firstname>Willem I , The Silent</firstname>
+    </name>
+  </indi>
+  <indi id="R133">
+    <name>
+      <firstname>Catherine Henrietta</firstname>
+    </name>
+  </indi>
+  <indi id="R128">
+    <name>
+      <firstname>Anne</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <sex type="F" />
+    <famc ref="F30" />
+    <birt>
+      <date>
+        <d>17</d>
+        <m>MAR</m>
+      </date>
+      <plac>Palace, St. James's</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>5</d>
+        <m>NOV</m>
+        <y>1640</y>
+      </date>
+      <plac>Palace, Richmond</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R445">
+    <name>
+      <firstname>Sigurd</firstname>
+    </name>
+  </indi>
+  <indi id="R425">
+    <name>
+      <firstname>Mary</firstname>
+    </name>
+  </indi>
+  <indi id="R30">
+    <name>
+      <firstname>Henry II Curtmantle</firstname>
+    </name>
+  </indi>
+  <indi id="R10">
+    <name>
+      <firstname>Adeliza</firstname>
+    </name>
+  </indi>
+  <indi id="R148">
+    <name>
+      <firstname>Alfonso IV d'Este</firstname>
+    </name>
+  </indi>
+  <indi id="R190">
+    <name>
+      <firstname>Constance</firstname>
+    </name>
+  </indi>
+  <indi id="R404">
+    <name>
+      <firstname>Louis VIII, King of France</firstname>
+    </name>
+  </indi>
+  <indi id="R348">
+    <name>
+      <firstname>Cenfus</firstname>
+    </name>
+  </indi>
+  <indi id="R20">
+    <name>
+      <firstname>Matilda (Maud)</firstname>
+    </name>
+  </indi>
+  <indi id="R415">
+    <name>
+      <firstname>Margaret</firstname>
+    </name>
+  </indi>
+  <indi id="R35">
+    <name>
+      <firstname>John Lackland</firstname>
+    </name>
+  </indi>
+  <indi id="R335">
+    <name>
+      <firstname>Frithugar</firstname>
+    </name>
+  </indi>
+  <indi id="R436">
+    <name>
+      <firstname>Rognvald the Mighty</firstname>
+    </name>
+  </indi>
+  <indi id="R325">
+    <name>
+      <firstname>Sweyn Forkbeard</firstname>
+    </name>
+  </indi>
+  <indi id="R21">
+    <name>
+      <firstname>Agnes</firstname>
+    </name>
+  </indi>
+  <indi id="R139">
+    <name>
+      <firstname>Charles</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <sex type="M" />
+    <famc ref="F33" />
+    <birt>
+      <date>
+        <d>22</d>
+        <m>OCT</m>
+        <y>1660</y>
+      </date>
+      <plac>House, Worcester, London</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>5</d>
+        <m>MAY</m>
+        <y>1661</y>
+      </date>
+      <plac>Palace, Whitehall</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R320">
+    <name>
+      <firstname>Gunnor</firstname>
+    </name>
+  </indi>
+  <indi id="R110">
+    <name>
+      <firstname>Sophia</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <sex type="F" />
+    <famc ref="F25" />
+    <birt>
+      <date>
+        <d>22</d>
+        <m>JUN</m>
+        <y>1606</y>
+      </date>
+      <plac>Palace, Greenwich</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>23</d>
+        <m>JUN</m>
+        <y>1606</y>
+      </date>
+      <plac>Palace, Greenwich</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R422">
+    <name>
+      <firstname>Sarah Frances Elizabeth</firstname>
+      <lastname>Armstrong-Jones</lastname>
+    </name>
+    <sex type="F" />
+    <famc ref="F158" />
+    <birt>
+      <date>
+        <d>1</d>
+        <m>MAY</m>
+        <y>1964</y>
+      </date>
+    </birt>
+  </indi>
+  <indi id="R149">
+    <name>
+      <firstname>Laura</firstname>
+      <lastname>Martinozzi</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F34" />
+    <famc ref="F189" />
+    <deat />
+  </indi>
+  <indi id="R193">
+    <name>
+      <firstname>Katherine</firstname>
+      <lastname>Roet</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F59" />
+    <famc ref="F190" />
+    <birt>
+      <date>
+        <y>1350</y>
+      </date>
+    </birt>
+    <deat>
+      <date>
+        <d>10</d>
+        <m>MAY</m>
+        <y>1403</y>
+      </date>
+      <plac>Lincoln</plac>
+    </deat>
+    <buri>
+      <plac>Cathedral, Lincoln</plac>
+    </buri>
+  </indi>
+  <indi id="R120">
+    <name>
+      <firstname>Marie dei Medici</firstname>
+    </name>
+  </indi>
+  <indi id="R49">
+    <name>
+      <firstname>Edmund of Langley</firstname>
+    </name>
+  </indi>
+  <indi id="R336">
+    <name>
+      <firstname>Freawine</firstname>
+    </name>
+  </indi>
+  <indi id="R36">
+    <name>
+      <firstname>Henry III</firstname>
+    </name>
+  </indi>
+  <indi id="R437">
+    <name>
+      <firstname>Sigurd</firstname>
+    </name>
+  </indi>
+  <indi id="R22">
+    <name>
+      <firstname>Matilda (formerly called Edith)</firstname>
+    </name>
+  </indi>
+  <indi id="R322">
+    <name>
+      <firstname>Judith</firstname>
+    </name>
+  </indi>
+  <indi id="R326">
+    <name>
+      <firstname>Gunhild</firstname>
+    </name>
+  </indi>
+  <indi id="R321">
+    <name>
+      <firstname>Richard II, The Good</firstname>
+    </name>
+  </indi>
+  <indi id="R111">
+    <name>
+      <firstname>Friedrich V</firstname>
+    </name>
+  </indi>
+  <indi id="R192">
+    <name>
+      <firstname>Maria de Padilla</firstname>
+    </name>
+  </indi>
+  <indi id="R423">
+    <name>
+      <firstname>Matilda</firstname>
+    </name>
+  </indi>
+  <indi id="R121">
+    <name>
+      <firstname>Francesco I dei Medici</firstname>
+    </name>
+  </indi>
+  <indi id="R448">
+    <name>
+      <firstname>William I, Longsword</firstname>
+    </name>
+  </indi>
+  <indi id="R239">
+    <name>
+      <firstname>Thomas</firstname>
+      <lastname>Boleyn</lastname>
+    </name>
+    <titl>Earl of Wiltshir</titl>
+    <sex type="M" />
+    <fams ref="F90" />
+    <deat />
+  </indi>
+  <indi id="R337">
+    <name>
+      <firstname>Wig</firstname>
+    </name>
+  </indi>
+  <indi id="R33">
+    <name>
+      <firstname>Adeliza</firstname>
+    </name>
+  </indi>
+  <indi id="R23" />
+  <indi id="R323">
+    <name>
+      <firstname>Robert II, The Magnificent</firstname>
+    </name>
+  </indi>
+  <indi id="R438">
+    <name>
+      <firstname>Hild</firstname>
+    </name>
+  </indi>
+  <indi id="R137">
+    <name>
+      <firstname>Anne</firstname>
+      <lastname>Hyde</lastname>
+    </name>
+    <titl>Queen of England</titl>
+    <sex type="F" />
+    <fams ref="F33" />
+    <famc ref="F188" />
+    <birt>
+      <date>
+        <d>12</d>
+        <m>MAR</m>
+      </date>
+      <plac>Cranbourne Lodge, nr Windsor</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>31</d>
+        <m>MAR</m>
+        <y>1671</y>
+      </date>
+      <plac>Palace, St. James's</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R122">
+    <name>
+      <firstname>Charles II</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <titl>King of England</titl>
+    <sex type="M" />
+    <famc ref="F30" />
+    <birt>
+      <date>
+        <d>29</d>
+        <m>MAY</m>
+        <y>1630</y>
+      </date>
+      <plac>Palace, St. James's</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>6</d>
+        <m>FEB</m>
+      </date>
+      <plac>Palace, Whitehall</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R195">
+    <name>
+      <firstname>Isabel</firstname>
+    </name>
+  </indi>
+  <indi id="R409">
+    <name>
+      <firstname>Philip</firstname>
+      <lastname>Mountbatten</lastname>
+    </name>
+    <titl>Duke of Edinburg</titl>
+    <sex type="M" />
+    <fams ref="F153" />
+    <famc ref="F157" />
+    <birt>
+      <date>
+        <d>10</d>
+        <m>JUN</m>
+        <y>1921</y>
+      </date>
+      <plac>Mon Repos, Corfu</plac>
+    </birt>
+  </indi>
+  <indi id="R449">
+    <name>
+      <firstname>Gerloc, or Adele</firstname>
+    </name>
+  </indi>
+  <indi id="R238">
+    <name>
+      <firstname>Anne</firstname>
+      <lastname>Boleyn</lastname>
+    </name>
+    <titl>Marchioness</titl>
+    <sex type="F" />
+    <fams ref="F89" />
+    <birt>
+      <date spec="Not exact" />
+      <plac>Blickling Hall, Norfolk, or, Hever Castle, Kent</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>19</d>
+        <m>MAY</m>
+        <y>1536</y>
+      </date>
+      <plac>Tower Green</plac>
+    </deat>
+    <buri>
+      <plac>Chapel, of St. Peter, ad Vincula, in the Tower</plac>
+    </buri>
+  </indi>
+  <indi id="R420">
+    <name>
+      <firstname>Antony Charles Robert</firstname>
+      <lastname>Armstrong-Jones</lastname>
+    </name>
+    <titl>Earl of Snowdon</titl>
+    <sex type="M" />
+    <fams ref="F158" />
+  </indi>
+  <indi id="R124">
+    <name>
+      <firstname>Charles James</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <titl>Duke of Cornwall</titl>
+    <sex type="M" />
+    <famc ref="F30" />
+    <birt>
+      <date>
+        <d>13</d>
+        <m>MAY</m>
+        <y>1629</y>
+      </date>
+      <plac>Palace, Greenwich</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>13</d>
+        <m>MAY</m>
+        <y>1629</y>
+      </date>
+      <plac>Palace, Greenwich</plac>
+    </deat>
+  </indi>
+  <indi id="R338">
+    <name>
+      <firstname>Gewis</firstname>
+    </name>
+  </indi>
+  <indi id="R34">
+    <name>
+      <firstname>Richard I Coeur De Lion</firstname>
+    </name>
+  </indi>
+  <indi id="R24">
+    <name>
+      <firstname>William the Atheling</firstname>
+    </name>
+  </indi>
+  <indi id="R439">
+    <name>
+      <firstname>Rolf Nefja</firstname>
+    </name>
+  </indi>
+  <indi id="R324">
+    <name>
+      <firstname>Harlette of Falaise</firstname>
+    </name>
+  </indi>
+  <indi id="R411">
+    <name>
+      <firstname>Anne Elizabeth Alice</firstname>
+      <lastname>of Windsor</lastname>
+    </name>
+    <sex type="F" />
+    <famc ref="F153" />
+    <birt>
+      <date>
+        <d>15</d>
+        <m>AUG</m>
+        <y>1950</y>
+      </date>
+    </birt>
+  </indi>
+  <indi id="R138">
+    <name>
+      <firstname>Edward</firstname>
+      <lastname>Hyde</lastname>
+    </name>
+    <titl>Earl of Clarendn</titl>
+    <sex type="M" />
+    <fams ref="F188" />
+    <deat />
+  </indi>
+  <indi id="R123">
+    <name>
+      <firstname>James II</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <titl>King of England</titl>
+    <sex type="M" />
+    <fams ref="F33" />
+    <famc ref="F30" />
+    <birt>
+      <date>
+        <d>14</d>
+        <m>OCT</m>
+        <y>1633</y>
+      </date>
+      <plac>Palace, St. James's</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>6</d>
+        <m>SEP</m>
+        <y>1701</y>
+      </date>
+      <plac>St. Germain, France</plac>
+    </deat>
+    <buri>
+      <plac>St. Germain, France</plac>
+    </buri>
+  </indi>
+  <indi id="R194">
+    <name>
+      <firstname>Sir. Payn</firstname>
+      <lastname>Roet</lastname>
+    </name>
+    <sex type="M" />
+    <fams ref="F190" />
+    <deat />
+  </indi>
+  <indi id="R408">
+    <name>
+      <firstname>Mary</firstname>
+    </name>
+  </indi>
+  <indi id="R421">
+    <name>
+      <firstname>David Albert Charles</firstname>
+      <lastname>Armstrong-Jones</lastname>
+    </name>
+    <titl>Viscount Linley</titl>
+    <sex type="M" />
+    <famc ref="F158" />
+    <birt>
+      <date>
+        <d>3</d>
+        <m>NOV</m>
+        <y>1961</y>
+      </date>
+    </birt>
+  </indi>
+  <indi id="R206">
+    <name>
+      <firstname>Joan</firstname>
+    </name>
+  </indi>
+  <indi id="R182">
+    <name>
+      <firstname>Guillaume I</firstname>
+    </name>
+  </indi>
+  <indi id="R66">
+    <name>
+      <firstname>Henry</firstname>
+    </name>
+  </indi>
+  <indi id="R19">
+    <name>
+      <firstname>Phillipe ,Bishop of Chalons</firstname>
+    </name>
+  </indi>
+  <indi id="R25">
+    <name>
+      <firstname>Richard</firstname>
+    </name>
+  </indi>
+  <indi id="R296">
+    <name>
+      <firstname>Ecgwynn (Egwina)</firstname>
+    </name>
+  </indi>
+  <indi id="R216">
+    <name>
+      <firstname>Richard</firstname>
+      <lastname>Neville</lastname>
+    </name>
+    <titl>Earl of Warwick</titl>
+    <sex type="M" />
+    <fams ref="F193" />
+    <deat />
+  </indi>
+  <indi id="R282">
+    <name>
+      <firstname>George VI (Albert Frederick George)</firstname>
+    </name>
+  </indi>
+  <indi id="R226">
+    <name>
+      <firstname>Thomas</firstname>
+      <lastname>de Clifford</lastname>
+    </name>
+    <titl>Baron of Cliffor</titl>
+    <sex type="M" />
+    <fams ref="F195" />
+    <deat />
+  </indi>
+  <indi id="R46">
+    <name>
+      <firstname>Edward IV</firstname>
+    </name>
+  </indi>
+  <indi id="R39">
+    <name>
+      <firstname>Edward III</firstname>
+    </name>
+  </indi>
+  <indi id="R207">
+    <name>
+      <firstname>Charles II, King of Vavarre</firstname>
+    </name>
+  </indi>
+  <indi id="R183">
+    <name>
+      <firstname>Jeanne</firstname>
+    </name>
+  </indi>
+  <indi id="R65">
+    <name>
+      <firstname>William Clito, Count of Flanders</firstname>
+    </name>
+  </indi>
+  <indi id="R79">
+    <name>
+      <firstname>Alix</firstname>
+    </name>
+  </indi>
+  <indi id="R89">
+    <name>
+      <firstname>Elizabeth I</firstname>
+      <lastname>Tudor</lastname>
+    </name>
+    <titl>Queen of England</titl>
+    <sex type="F" />
+    <famc ref="F89" />
+    <birt>
+      <date>
+        <d>7</d>
+        <m>SEP</m>
+        <y>1533</y>
+      </date>
+      <plac>Palace, Greenwich</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>24</d>
+        <m>MAR</m>
+      </date>
+      <plac>Palace, Richmond</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R295">
+    <name>
+      <firstname>Edward the Elder</firstname>
+    </name>
+  </indi>
+  <indi id="R26">
+    <name>
+      <firstname>Matilda (formerly called Alice or_Aethelic)</firstname>
+    </name>
+  </indi>
+  <indi id="R217">
+    <name>
+      <firstname>Margaret</firstname>
+      <lastname>de Holand</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F75" />
+    <famc ref="F191" />
+    <birt>
+      <date>
+        <y>1385</y>
+      </date>
+    </birt>
+    <deat>
+      <date>
+        <d>31</d>
+        <m>DEC</m>
+        <y>1429</y>
+      </date>
+    </deat>
+    <buri>
+      <plac>Cathedral, Canterbury</plac>
+    </buri>
+  </indi>
+  <indi id="R59">
+    <name>
+      <firstname>Jane</firstname>
+      <lastname>Grey</lastname>
+    </name>
+    <titl>Queen of England</titl>
+    <sex type="F" />
+    <fams ref="F100" />
+    <famc ref="F105" />
+    <birt>
+      <date>
+        <m>OCT</m>
+        <y>1537</y>
+      </date>
+      <plac>Bradgate, Leics</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>12</d>
+        <m>FEB</m>
+        <y>1554</y>
+      </date>
+      <plac>Tower Green</plac>
+    </deat>
+    <buri>
+      <date>
+        <y>1554</y>
+      </date>
+      <plac>Chapel, of St. Peter, ad Vincula, in the Tower</plac>
+    </buri>
+  </indi>
+  <indi id="R227">
+    <name>
+      <firstname>Cicely</firstname>
+      <lastname>Nevill</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F82" />
+    <birt>
+      <date>
+        <d>3</d>
+        <m>MAY</m>
+        <y>1415</y>
+      </date>
+      <plac>Castle, Raby</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>31</d>
+        <m>MAY</m>
+        <y>1495</y>
+      </date>
+      <plac>Castle, Berkhamsted</plac>
+    </deat>
+    <buri>
+      <plac>Fotheringay</plac>
+    </buri>
+  </indi>
+  <indi id="R45">
+    <name>
+      <firstname>Henry VI</firstname>
+    </name>
+  </indi>
+  <indi id="R281">
+    <name>
+      <firstname>Edward VIII</firstname>
+    </name>
+  </indi>
+  <indi id="R17">
+    <name>
+      <firstname>Theobald IV (Thibault)</firstname>
+    </name>
+  </indi>
+  <indi id="R68">
+    <name>
+      <firstname>Thierry of Alsace, Count of_Flanders</firstname>
+    </name>
+  </indi>
+  <indi id="R170">
+    <name>
+      <firstname>Raymond</firstname>
+      <lastname>Berenger</lastname>
+    </name>
+    <titl>Count of Provenc</titl>
+    <sex type="M" />
+    <fams ref="F44" />
+    <deat />
+  </indi>
+  <indi id="R208">
+    <name>
+      <firstname>Jeanne</firstname>
+    </name>
+  </indi>
+  <indi id="R180">
+    <name>
+      <firstname>Jeanne I</firstname>
+    </name>
+  </indi>
+  <indi id="R78">
+    <name>
+      <firstname>Thibaut III</firstname>
+    </name>
+  </indi>
+  <indi id="R58">
+    <name>
+      <firstname>Edward VI</firstname>
+      <lastname>Tudor</lastname>
+    </name>
+    <titl>King of England</titl>
+    <sex type="M" />
+    <famc ref="F91" />
+    <birt>
+      <date>
+        <d>12</d>
+        <m>OCT</m>
+        <y>1537</y>
+      </date>
+      <plac>Palace, Hampton Court</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>6</d>
+        <m>JUL</m>
+        <y>1553</y>
+      </date>
+      <plac>Greenwich</plac>
+    </deat>
+    <buri>
+      <date>
+        <y>1553</y>
+      </date>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R27">
+    <name>
+      <firstname>Heinrich V</firstname>
+    </name>
+  </indi>
+  <indi id="R294">
+    <name>
+      <firstname>Ealhswith</firstname>
+    </name>
+  </indi>
+  <indi id="R214">
+    <name>
+      <firstname>Edward</firstname>
+    </name>
+  </indi>
+  <indi id="R37">
+    <name>
+      <firstname>Edward I Longshanks</firstname>
+    </name>
+  </indi>
+  <indi id="R284">
+    <name>
+      <firstname>Charles</firstname>
+      <lastname>of Windsor</lastname>
+    </name>
+    <titl>Prince of Wales</titl>
+    <sex type="M" />
+    <famc ref="F153" />
+    <birt>
+      <date>
+        <d>14</d>
+        <m>NOV</m>
+        <y>1948</y>
+      </date>
+    </birt>
+  </indi>
+  <indi id="R228">
+    <name>
+      <firstname>Ralph</firstname>
+      <lastname>Nevill</lastname>
+    </name>
+    <titl>Earl of Westmorl</titl>
+    <sex type="M" />
+    <fams ref="F83" />
+    <deat>
+      <date>
+        <d>21</d>
+        <m>OCT</m>
+        <y>1425</y>
+      </date>
+      <plac>Castle, Raby</plac>
+    </deat>
+  </indi>
+  <indi id="R48">
+    <name>
+      <firstname>Richard</firstname>
+    </name>
+  </indi>
+  <indi id="R67">
+    <name>
+      <firstname>Sibylla</firstname>
+    </name>
+  </indi>
+  <indi id="R209">
+    <name>
+      <firstname>Catherine</firstname>
+    </name>
+  </indi>
+  <indi id="R181">
+    <name>
+      <firstname>Phillipa</firstname>
+    </name>
+  </indi>
+  <indi id="R171">
+    <name>
+      <firstname>Beatrice</firstname>
+    </name>
+  </indi>
+  <indi id="R77">
+    <name>
+      <firstname>Richard</firstname>
+    </name>
+  </indi>
+  <indi id="R18">
+    <name>
+      <firstname>Henry</firstname>
+    </name>
+  </indi>
+  <indi id="R215">
+    <name>
+      <firstname>Anne</firstname>
+      <lastname>Neville</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F73" />
+    <famc ref="F193" />
+    <birt>
+      <date>
+        <d>11</d>
+        <m>JUN</m>
+        <y>1456</y>
+      </date>
+      <plac>Castle, Warwick</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>16</d>
+        <m>MAR</m>
+        <y>1485</y>
+      </date>
+      <plac>Palace, Westminster</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R28">
+    <name>
+      <firstname>Geoffrey V</firstname>
+      <lastname>Plantagenet</lastname>
+    </name>
+    <titl>Count of Anjou</titl>
+    <sex type="M" />
+    <fams ref="F4" />
+    <famc ref="F10" />
+    <birt>
+      <date>
+        <d>24</d>
+        <m>AUG</m>
+        <y>1113</y>
+      </date>
+    </birt>
+    <deat>
+      <date>
+        <d>7</d>
+        <m>SEP</m>
+        <y>1151</y>
+      </date>
+      <plac>Chateau-du-Loir</plac>
+    </deat>
+    <buri>
+      <date>
+        <m>SEP</m>
+        <y>1151</y>
+      </date>
+      <plac>Cathedral, Le Mans</plac>
+    </buri>
+  </indi>
+  <indi id="R57">
+    <name>
+      <firstname>Henry VIII</firstname>
+      <lastname>Tudor</lastname>
+    </name>
+    <titl>King of England</titl>
+    <sex type="M" />
+    <fams ref="F87" />
+    <famc ref="F86" />
+    <birt>
+      <date>
+        <d>28</d>
+        <m>JAN</m>
+        <y>1491</y>
+      </date>
+      <plac>Palace, Greenwich</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>28</d>
+        <m>JAN</m>
+        <y>1547</y>
+      </date>
+    </deat>
+    <buri>
+      <date>
+        <y>1547</y>
+      </date>
+      <plac>Chapel, St. George's, Windsor</plac>
+    </buri>
+  </indi>
+  <indi id="R293">
+    <name>
+      <firstname>Alfred the Great</firstname>
+    </name>
+  </indi>
+  <indi id="R38">
+    <name>
+      <firstname>Edward II</firstname>
+    </name>
+  </indi>
+  <indi id="R283">
+    <name>
+      <firstname>Elizabeth II</firstname>
+    </name>
+  </indi>
+  <indi id="R229">
+    <name>
+      <firstname>Joan</firstname>
+      <lastname>Beaufort</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F83" />
+    <famc ref="F59" />
+    <birt>
+      <date spec="Not exact" />
+      <plac>Castle, Beaufort</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>13</d>
+        <m>NOV</m>
+        <y>1440</y>
+      </date>
+      <plac>Howden, Yorks.</plac>
+    </deat>
+    <buri>
+      <plac>Cathedral, Lincoln</plac>
+    </buri>
+  </indi>
+  <indi id="R47">
+    <name>
+      <firstname>Richard Plantagenet</firstname>
+    </name>
+  </indi>
+  <indi id="R416">
+    <name>
+      <firstname>Wallis Warfield</firstname>
+      <lastname>Simpson</lastname>
+    </name>
+    <titl>Duchess of Windr</titl>
+    <sex type="F" />
+    <fams ref="F155" />
+    <deat />
+  </indi>
+  <indi id="R403">
+    <name>
+      <firstname>Mahaut</firstname>
+    </name>
+  </indi>
+  <indi id="R101">
+    <name>
+      <firstname>Sophie</firstname>
+    </name>
+  </indi>
+  <indi id="R1">
+    <name>
+      <firstname>William I ,The Conqueror</firstname>
+    </name>
+  </indi>
+  <indi id="R42">
+    <name>
+      <firstname>John of Gaunt</firstname>
+    </name>
+  </indi>
+  <indi id="R202">
+    <name>
+      <firstname>Charles VI ,King of France</firstname>
+    </name>
+  </indi>
+  <indi id="R15">
+    <name>
+      <firstname>Stephen (Etienne)</firstname>
+    </name>
+  </indi>
+  <indi id="R286">
+    <name>
+      <firstname>Raedburh (Redburga)</firstname>
+    </name>
+  </indi>
+  <indi id="R140">
+    <name>
+      <firstname>James</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <titl>Earl of Cambridg</titl>
+    <sex type="M" />
+    <famc ref="F33" />
+    <birt>
+      <date>
+        <d>12</d>
+        <m>JUL</m>
+        <y>1663</y>
+      </date>
+      <plac>Palace, St. James's</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>20</d>
+        <m>JUN</m>
+        <y>1667</y>
+      </date>
+      <plac>Palace, Richmond</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R29">
+    <name>
+      <firstname>Matilda (formerly Alice)</firstname>
+    </name>
+  </indi>
+  <indi id="R102">
+    <name>
+      <firstname>Ulrich III</firstname>
+    </name>
+  </indi>
+  <indi id="R56">
+    <name>
+      <firstname>Henry VII</firstname>
+      <lastname>Tudor</lastname>
+    </name>
+    <titl>King of England</titl>
+    <sex type="M" />
+    <fams ref="F86" />
+    <famc ref="F6" />
+    <birt>
+      <date>
+        <d>28</d>
+        <m>JAN</m>
+        <y>1457</y>
+      </date>
+      <plac>Castle, Pembroke</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>21</d>
+        <m>APR</m>
+        <y>1509</y>
+      </date>
+      <plac>Palace, Sheen, Surrey</plac>
+    </deat>
+    <buri>
+      <date>
+        <y>1509</y>
+      </date>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R130">
+    <name>
+      <firstname>Henrietta Anne</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F31" />
+    <famc ref="F30" />
+    <birt>
+      <date>
+        <d>16</d>
+        <m>JUN</m>
+        <y>1644</y>
+      </date>
+      <plac>Bedford House, Exeter</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>30</d>
+        <m>JUN</m>
+        <y>1670</y>
+      </date>
+      <plac>St. Cloud</plac>
+    </deat>
+    <buri>
+      <plac>St. Denis</plac>
+    </buri>
+  </indi>
+  <indi id="R417">
+    <name>
+      <firstname>Mary</firstname>
+      <lastname>Teck</lastname>
+    </name>
+    <titl>Queen of England</titl>
+    <sex type="F" />
+    <fams ref="F156" />
+    <deat>
+      <date>
+        <y>1953</y>
+      </date>
+    </deat>
+  </indi>
+  <indi id="R402">
+    <name>
+      <firstname>Robert I</firstname>
+    </name>
+  </indi>
+  <indi id="R100">
+    <name>
+      <firstname>Frederik II ,King of Denmark</firstname>
+    </name>
+  </indi>
+  <indi id="R41">
+    <name>
+      <firstname>Richard II</firstname>
+    </name>
+  </indi>
+  <indi id="R69">
+    <name>
+      <firstname>Fulk (Foulques) V</firstname>
+    </name>
+  </indi>
+  <indi id="R16">
+    <name>
+      <firstname>William (Guillaume)</firstname>
+    </name>
+  </indi>
+  <indi id="R203">
+    <name>
+      <firstname>Isabelle (Isabeau)</firstname>
+    </name>
+  </indi>
+  <indi id="R141">
+    <name>
+      <firstname>Charles</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <sex type="M" />
+    <famc ref="F33" />
+    <birt>
+      <date>
+        <d>4</d>
+        <m>JUL</m>
+        <y>1666</y>
+      </date>
+      <plac>Palace, St. James's</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>22</d>
+        <m>MAY</m>
+        <y>1667</y>
+      </date>
+      <plac>Palace, St. James's</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R285">
+    <name>
+      <firstname>Egbert</firstname>
+    </name>
+  </indi>
+  <indi id="R3">
+    <name>
+      <firstname>Paul Eugene</firstname>
+      <lastname>Hedges</lastname>
+    </name>
+    <sex type="M" />
+    <birt>
+      <date>
+        <d>4</d>
+        <m>APR</m>
+        <y>1960</y>
+      </date>
+      <plac>Montebello, L.A. County, CA.</plac>
+    </birt>
+  </indi>
+  <indi id="R55">
+    <name>
+      <firstname>Edmund</firstname>
+      <lastname>Tudor</lastname>
+    </name>
+    <titl>Earl of Richmond</titl>
+    <sex type="M" />
+    <fams ref="F6" />
+    <famc ref="F70" />
+    <birt>
+      <date spec="Not exact" />
+      <plac>Hadham, Beds</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>3</d>
+        <m>NOV</m>
+        <y>1456</y>
+      </date>
+      <plac>Carmarthen</plac>
+    </deat>
+    <buri>
+      <date>
+        <y>1456</y>
+      </date>
+      <plac>Cathedral, St. Davids</plac>
+    </buri>
+  </indi>
+  <indi id="R131">
+    <name>
+      <firstname>Phillipe , Duke of Orleans</firstname>
+    </name>
+  </indi>
+  <indi id="R299">
+    <name>
+      <firstname>Athelstan</firstname>
+    </name>
+  </indi>
+  <indi id="R401">
+    <name>
+      <firstname>Henri I</firstname>
+    </name>
+  </indi>
+  <indi id="R428">
+    <name>
+      <firstname>Constance</firstname>
+    </name>
+  </indi>
+  <indi id="R289">
+    <name>
+      <firstname>Judith</firstname>
+    </name>
+  </indi>
+  <indi id="R204">
+    <name>
+      <firstname>Mary</firstname>
+      <lastname>de Bohun</lastname>
+    </name>
+    <titl>Queen of England</titl>
+    <sex type="F" />
+    <fams ref="F66" />
+    <famc ref="F192" />
+    <birt>
+      <date spec="Not exact" />
+    </birt>
+    <deat>
+      <date>
+        <d>4</d>
+        <m>JUN</m>
+        <y>1394</y>
+      </date>
+      <plac>Castle, Peterborough</plac>
+    </deat>
+    <buri>
+      <plac>Church, St. Mary's, Leicester</plac>
+    </buri>
+  </indi>
+  <indi id="R418">
+    <name>
+      <firstname>Prince Andrew of Greece and_Denmark</firstname>
+    </name>
+  </indi>
+  <indi id="R13">
+    <name>
+      <firstname>Matilda</firstname>
+    </name>
+  </indi>
+  <indi id="R44">
+    <name>
+      <firstname>Henry V</firstname>
+    </name>
+  </indi>
+  <indi id="R142">
+    <name>
+      <firstname>Edgar</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <titl>Earl of Cambridg</titl>
+    <sex type="M" />
+    <famc ref="F33" />
+    <birt>
+      <date>
+        <d>14</d>
+        <m>SEP</m>
+        <y>1667</y>
+      </date>
+      <plac>Palace, St. James's</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>8</d>
+        <m>JUN</m>
+        <y>1671</y>
+      </date>
+      <plac>Palace, Richmond</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R288">
+    <name>
+      <firstname>Osburh (Osgurga)</firstname>
+    </name>
+  </indi>
+  <indi id="R218">
+    <name>
+      <firstname>Margaret</firstname>
+      <lastname>Beauchamp</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F76" />
+    <famc ref="F194" />
+    <deat />
+  </indi>
+  <indi id="R298">
+    <name>
+      <firstname>Eadgifu</firstname>
+    </name>
+  </indi>
+  <indi id="R54">
+    <name>
+      <firstname>Margaret</firstname>
+      <lastname>Beaufort</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F6" />
+    <famc ref="F76" />
+    <birt>
+      <date>
+        <m>APR</m>
+        <y>1441</y>
+      </date>
+      <plac>Bletso, Beds</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>5</d>
+        <m>JUL</m>
+        <y>1509</y>
+      </date>
+      <plac>Palace, Westminster</plac>
+    </deat>
+    <buri>
+      <date>
+        <y>1509</y>
+      </date>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R104">
+    <name>
+      <firstname>Charles I</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <titl>King of England</titl>
+    <sex type="M" />
+    <fams ref="F30" />
+    <famc ref="F25" />
+    <birt>
+      <date>
+        <d>19</d>
+        <m>NOV</m>
+        <y>1600</y>
+      </date>
+      <plac>Dunfermline</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>30</d>
+        <m>JAN</m>
+      </date>
+      <plac>Palace, Whitehall</plac>
+    </deat>
+    <buri>
+      <plac>Chapel, St. George's, Windsor</plac>
+    </buri>
+  </indi>
+  <indi id="R53">
+    <name>
+      <firstname>John</firstname>
+      <lastname>Beaufort</lastname>
+    </name>
+    <titl>Duke of Somerset</titl>
+    <sex type="M" />
+    <fams ref="F76" />
+    <famc ref="F75" />
+    <birt>
+      <date>
+        <d>25</d>
+        <m>MAR</m>
+        <y>1404</y>
+      </date>
+    </birt>
+    <deat>
+      <date>
+        <d>27</d>
+        <m>MAY</m>
+        <y>1444</y>
+      </date>
+    </deat>
+    <buri>
+      <date>
+        <y>1444</y>
+      </date>
+      <plac>Minster, Wimborne, Dorset</plac>
+    </buri>
+  </indi>
+  <indi id="R400">
+    <name>
+      <firstname>Blanche</firstname>
+    </name>
+  </indi>
+  <indi id="R429">
+    <name>
+      <firstname>Louis VI, King of France</firstname>
+    </name>
+  </indi>
+  <indi id="R419">
+    <name>
+      <firstname>Princess Alice</firstname>
+    </name>
+  </indi>
+  <indi id="R14">
+    <name>
+      <firstname>Stephen</firstname>
+    </name>
+  </indi>
+  <indi id="R205">
+    <name>
+      <firstname>Humphrey</firstname>
+      <lastname>de Bohun</lastname>
+    </name>
+    <sex type="M" />
+    <fams ref="F192" />
+    <deat />
+  </indi>
+  <indi id="R143">
+    <name>
+      <firstname>Mary II</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <titl>Queen of England</titl>
+    <sex type="F" />
+    <fams ref="F35" />
+    <famc ref="F33" />
+    <birt>
+      <date>
+        <d>30</d>
+        <m>APR</m>
+        <y>1662</y>
+      </date>
+      <plac>Palace, St. James's</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>28</d>
+        <m>DEC</m>
+        <y>1694</y>
+      </date>
+      <plac>Palace, Kensington</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R43">
+    <name>
+      <firstname>Henry IV</firstname>
+    </name>
+  </indi>
+  <indi id="R287">
+    <name>
+      <firstname>Aethelwulf</firstname>
+    </name>
+  </indi>
+  <indi id="R219">
+    <name>
+      <firstname>John</firstname>
+      <lastname>Beauchamp</lastname>
+    </name>
+    <titl>Baron of Bletso</titl>
+    <sex type="M" />
+    <fams ref="F194" />
+    <deat />
+  </indi>
+  <indi id="R297">
+    <name>
+      <firstname>Aelflaed (Efleda)</firstname>
+    </name>
+  </indi>
+  <indi id="R103">
+    <name>
+      <firstname>Henry Frederick</firstname>
+    </name>
+  </indi>
+  <indi id="R83">
+    <name>
+      <firstname>Eldeburge</firstname>
+    </name>
+  </indi>
+  <indi id="R7">
+    <name>
+      <firstname>Henry I ,Beauclerc</firstname>
+    </name>
+  </indi>
+  <indi id="R200">
+    <name>
+      <firstname>Elisabeth</firstname>
+    </name>
+  </indi>
+  <indi id="R93">
+    <name>
+      <firstname>Mary ,Queen of Scots</firstname>
+    </name>
+  </indi>
+  <indi id="R308">
+    <name>
+      <firstname>Aelfthryth (Elfrida)</firstname>
+    </name>
+  </indi>
+  <indi id="R163">
+    <name>
+      <firstname>Isabella</firstname>
+    </name>
+  </indi>
+  <indi id="R210">
+    <name>
+      <firstname>Owen</firstname>
+      <lastname>Tudor</lastname>
+    </name>
+    <sex type="M" />
+    <fams ref="F70" />
+    <deat>
+      <date>
+        <d>2</d>
+        <m>FEB</m>
+        <y>1461</y>
+      </date>
+    </deat>
+  </indi>
+  <indi id="R230">
+    <name>
+      <firstname>Elizabeth</firstname>
+      <lastname>Woodville</lastname>
+    </name>
+    <titl>Queen of England</titl>
+    <sex type="F" />
+    <fams ref="F84" />
+    <famc ref="F85" />
+    <birt>
+      <date spec="Not exact" />
+      <plac>Grafton Regis</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>8</d>
+        <m>JUN</m>
+        <y>1492</y>
+      </date>
+      <plac>Abbey, Bermondsey</plac>
+    </deat>
+    <buri>
+      <plac>Chapel, St. George's, Windsor</plac>
+    </buri>
+  </indi>
+  <indi id="R220">
+    <name>
+      <firstname>Lord Henry</firstname>
+      <lastname>Stafford</lastname>
+    </name>
+    <sex type="M" />
+    <fams ref="F77" />
+    <deat>
+      <date>
+        <y>1481</y>
+      </date>
+    </deat>
+  </indi>
+  <indi id="R177">
+    <name>
+      <firstname>Marie</firstname>
+    </name>
+  </indi>
+  <indi id="R63">
+    <name>
+      <firstname>Geoffrey ,Count of Conversano</firstname>
+    </name>
+  </indi>
+  <indi id="R201">
+    <name>
+      <firstname>Isabelle</firstname>
+    </name>
+  </indi>
+  <indi id="R84">
+    <name>
+      <firstname>Matilda</firstname>
+    </name>
+  </indi>
+  <indi id="R270">
+    <name>
+      <firstname>Magdalene Auguste</firstname>
+    </name>
+  </indi>
+  <indi id="R6">
+    <name>
+      <firstname>Robert II ,Curthose</firstname>
+    </name>
+  </indi>
+  <indi id="R94">
+    <name>
+      <firstname>Henry</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <titl>Duke of Albany</titl>
+    <sex type="M" />
+    <fams ref="F21" />
+    <famc ref="F23" />
+    <birt>
+      <date>
+        <d>7</d>
+        <m>DEC</m>
+        <y>1545</y>
+      </date>
+    </birt>
+    <deat>
+      <date>
+        <d>10</d>
+        <m>FEB</m>
+        <y>1567</y>
+      </date>
+    </deat>
+  </indi>
+  <indi id="R70">
+    <name>
+      <firstname>Heremburge</firstname>
+    </name>
+  </indi>
+  <indi id="R162">
+    <name>
+      <firstname>Louis VII ,King of France</firstname>
+    </name>
+  </indi>
+  <indi id="R307">
+    <name>
+      <firstname>Aethelflaed</firstname>
+    </name>
+  </indi>
+  <indi id="R260">
+    <name>
+      <firstname>Charles</firstname>
+      <lastname>Brandon</lastname>
+    </name>
+    <titl>Duke of Suffolk</titl>
+    <sex type="M" />
+    <fams ref="F104" />
+    <birt>
+      <date>
+        <y>1484</y>
+      </date>
+    </birt>
+    <deat>
+      <date>
+        <d>24</d>
+        <m>AUG</m>
+        <y>1545</y>
+      </date>
+      <plac>Palace, Guildford</plac>
+    </deat>
+    <buri>
+      <plac>Windsor</plac>
+    </buri>
+  </indi>
+  <indi id="R240">
+    <name>
+      <firstname>Elizabeth</firstname>
+    </name>
+  </indi>
+  <indi id="R50">
+    <name>
+      <firstname>Edward V</firstname>
+    </name>
+  </indi>
+  <indi id="R64">
+    <name>
+      <firstname>Sibylla</firstname>
+    </name>
+  </indi>
+  <indi id="R250">
+    <name>
+      <firstname>Sir Thomas</firstname>
+      <lastname>Parr</lastname>
+    </name>
+    <titl>Kt. of Kendal</titl>
+    <sex type="M" />
+    <fams ref="F96" />
+    <deat />
+  </indi>
+  <indi id="R176">
+    <name>
+      <firstname>Phillipe III ,King of France</firstname>
+    </name>
+  </indi>
+  <indi id="R95">
+    <name>
+      <firstname>Archibald</firstname>
+      <lastname>Douglas</lastname>
+    </name>
+    <titl>Earl of Angus</titl>
+    <sex type="M" />
+    <fams ref="F22" />
+    <deat>
+      <date>
+        <y>1557</y>
+      </date>
+    </deat>
+  </indi>
+  <indi id="R81">
+    <name>
+      <firstname>Agnes</firstname>
+    </name>
+  </indi>
+  <indi id="R151">
+    <name>
+      <firstname>William III</firstname>
+    </name>
+  </indi>
+  <indi id="R5">
+    <name>
+      <firstname>Matilda</firstname>
+    </name>
+  </indi>
+  <indi id="R271">
+    <name>
+      <firstname>Sophia Charlotte</firstname>
+    </name>
+  </indi>
+  <indi id="R399">
+    <name>
+      <firstname>Baldwin</firstname>
+      <lastname>de Redvers</lastname>
+    </name>
+    <titl>Earl of Devon</titl>
+    <sex type="M" />
+    <fams ref="F230" />
+    <deat />
+  </indi>
+  <indi id="R161">
+    <name>
+      <firstname>Eleanor of Acquitaine</firstname>
+    </name>
+  </indi>
+  <indi id="R71">
+    <name>
+      <firstname>Helie I ,Count of Maine</firstname>
+    </name>
+  </indi>
+  <indi id="R51">
+    <name>
+      <firstname>Richard III</firstname>
+    </name>
+  </indi>
+  <indi id="R379">
+    <name>
+      <firstname>Mul</firstname>
+    </name>
+  </indi>
+  <indi id="R232">
+    <name>
+      <firstname>Jacquette</firstname>
+    </name>
+  </indi>
+  <indi id="R189">
+    <name>
+      <firstname>Isabel</firstname>
+    </name>
+  </indi>
+  <indi id="R398">
+    <name>
+      <firstname>Isabella</firstname>
+      <lastname>de Redvers</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F149" />
+    <famc ref="F230" />
+    <deat />
+  </indi>
+  <indi id="R213">
+    <name>
+      <firstname>Isabella</firstname>
+    </name>
+  </indi>
+  <indi id="R61">
+    <name>
+      <firstname>Mary</firstname>
+      <lastname>Tudor</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F103" />
+    <famc ref="F86" />
+    <birt>
+      <date>
+        <d>18</d>
+        <m>MAR</m>
+        <y>1496</y>
+      </date>
+      <plac>Palace, Richmond</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>24</d>
+        <m>JUN</m>
+        <y>1533</y>
+      </date>
+    </deat>
+    <buri>
+      <plac>Church, St. Mary's, Bury</plac>
+    </buri>
+  </indi>
+  <indi id="R251">
+    <name>
+      <firstname>Maud</firstname>
+    </name>
+  </indi>
+  <indi id="R96">
+    <name>
+      <firstname>Margaret</firstname>
+      <lastname>Douglas</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F23" />
+    <famc ref="F22" />
+    <birt>
+      <date>
+        <d>7</d>
+        <m>OCT</m>
+        <y>1515</y>
+      </date>
+      <plac>Castle, Harbottle, Northumberland</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>9</d>
+        <m>MAR</m>
+        <y>1578</y>
+      </date>
+      <plac>Hackney, Middlesex</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R82">
+    <name>
+      <firstname>Gilon , Lord of Sully</firstname>
+    </name>
+  </indi>
+  <indi id="R309">
+    <name>
+      <firstname>Edward the Martyr</firstname>
+    </name>
+  </indi>
+  <indi id="R150">
+    <name>
+      <firstname>Girolamo</firstname>
+      <lastname>Martinozzi</lastname>
+    </name>
+    <titl>Count</titl>
+    <sex type="M" />
+    <fams ref="F189" />
+    <deat />
+  </indi>
+  <indi id="R4">
+    <name>
+      <firstname>William II Rufus</firstname>
+    </name>
+  </indi>
+  <indi id="R179">
+    <name>
+      <firstname>Phillipe IV ,King of France</firstname>
+    </name>
+  </indi>
+  <indi id="R272">
+    <name>
+      <firstname>George IV (Augustus Frederick)</firstname>
+    </name>
+  </indi>
+  <indi id="R211">
+    <name>
+      <firstname>Margaret</firstname>
+    </name>
+  </indi>
+  <indi id="R72">
+    <name>
+      <firstname>Joan (Giovanna)</firstname>
+    </name>
+  </indi>
+  <indi id="R319">
+    <name>
+      <firstname>Ealgyth</firstname>
+    </name>
+  </indi>
+  <indi id="R160">
+    <name>
+      <firstname>George III (William Frederick)</firstname>
+    </name>
+  </indi>
+  <indi id="R188">
+    <name>
+      <firstname>Henry, Duke of Lancaster</firstname>
+    </name>
+  </indi>
+  <indi id="R52">
+    <name>
+      <firstname>John</firstname>
+      <lastname>Beaufort</lastname>
+    </name>
+    <titl>Earl of Somerset</titl>
+    <sex type="M" />
+    <fams ref="F75" />
+    <famc ref="F59" />
+    <birt>
+      <date spec="Not exact" />
+      <plac>Castle, Beaufort, Anjou</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>21</d>
+        <m>APR</m>
+        <y>1410</y>
+      </date>
+    </deat>
+    <buri>
+      <date>
+        <y>1410</y>
+      </date>
+      <plac>Cathedral, Canterbury</plac>
+    </buri>
+  </indi>
+  <indi id="R231">
+    <name>
+      <firstname>Richard</firstname>
+      <lastname>Woodville</lastname>
+    </name>
+    <titl>Earl of Rivers</titl>
+    <sex type="M" />
+    <fams ref="F85" />
+    <deat />
+  </indi>
+  <indi id="R212">
+    <name>
+      <firstname>Rene</firstname>
+    </name>
+  </indi>
+  <indi id="R252">
+    <name>
+      <firstname>John</firstname>
+      <lastname>Nevill</lastname>
+    </name>
+    <sex type="M" />
+    <fams ref="F97" />
+    <deat />
+  </indi>
+  <indi id="R178">
+    <name>
+      <firstname>Isabelle</firstname>
+    </name>
+  </indi>
+  <indi id="R62">
+    <name>
+      <firstname>Margaret</firstname>
+      <lastname>Tudor</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F19" />
+    <famc ref="F86" />
+    <birt>
+      <date>
+        <d>29</d>
+        <m>NOV</m>
+        <y>1489</y>
+      </date>
+      <plac>Palace, Westminster</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>24</d>
+        <m>NOV</m>
+        <y>1541</y>
+      </date>
+      <plac>Castle, Methven</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, St. John's, Perth</plac>
+    </buri>
+  </indi>
+  <indi id="R263">
+    <name>
+      <firstname>Georg Wilhelm</firstname>
+    </name>
+  </indi>
+  <indi id="R376">
+    <name>
+      <firstname>Aethelbald</firstname>
+    </name>
+  </indi>
+  <indi id="R235">
+    <name>
+      <firstname>Catherine of Aragon</firstname>
+    </name>
+  </indi>
+  <indi id="R291">
+    <name>
+      <firstname>Aethelbert</firstname>
+    </name>
+  </indi>
+  <indi id="R73">
+    <name>
+      <firstname>Baldwin (Baudoin) V</firstname>
+    </name>
+  </indi>
+  <indi id="R167">
+    <name>
+      <firstname>Aymer</firstname>
+      <lastname>Taillefer</lastname>
+    </name>
+    <titl>Count of Angoulm</titl>
+    <sex type="M" />
+    <fams ref="F43" />
+    <deat />
+  </indi>
+  <indi id="R153">
+    <name>
+      <firstname>George of Denmark</firstname>
+    </name>
+  </indi>
+  <indi id="R273">
+    <name>
+      <firstname>William IV (Henry)</firstname>
+    </name>
+  </indi>
+  <indi id="R386">
+    <name>
+      <firstname>Cwenburh</firstname>
+    </name>
+  </indi>
+  <indi id="R97">
+    <name>
+      <firstname>Matthew</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <titl>Earl of Lennox</titl>
+    <sex type="M" />
+    <fams ref="F23" />
+    <deat>
+      <date>
+        <d>4</d>
+        <m>SEP</m>
+        <y>1571</y>
+      </date>
+    </deat>
+  </indi>
+  <indi id="R225">
+    <name>
+      <firstname>Maud</firstname>
+      <lastname>de Clifford</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F81" />
+    <famc ref="F195" />
+    <deat>
+      <date>
+        <d>26</d>
+        <m>AUG</m>
+        <y>1446</y>
+      </date>
+    </deat>
+  </indi>
+  <indi id="R87">
+    <name>
+      <firstname>Udalrich ,Count of Passau</firstname>
+    </name>
+  </indi>
+  <indi id="R173">
+    <name>
+      <firstname>Fernando III</firstname>
+    </name>
+  </indi>
+  <indi id="R168">
+    <name>
+      <firstname>Alice</firstname>
+    </name>
+  </indi>
+  <indi id="R187">
+    <name>
+      <firstname>Blanche</firstname>
+    </name>
+  </indi>
+  <indi id="R377">
+    <name>
+      <firstname>Oswald</firstname>
+    </name>
+  </indi>
+  <indi id="R234">
+    <name>
+      <firstname>Elizabeth</firstname>
+    </name>
+  </indi>
+  <indi id="R264">
+    <name>
+      <firstname>Eleonore</firstname>
+    </name>
+  </indi>
+  <indi id="R166">
+    <name>
+      <firstname>Isabella</firstname>
+      <lastname>Taillefer</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F42" />
+    <famc ref="F43" />
+    <deat>
+      <date>
+        <d>31</d>
+        <m>MAY</m>
+        <y>1246</y>
+      </date>
+      <plac>Fontevrault</plac>
+    </deat>
+    <buri>
+      <plac>Fontevrault</plac>
+    </buri>
+  </indi>
+  <indi id="R74">
+    <name>
+      <firstname>Adele</firstname>
+    </name>
+  </indi>
+  <indi id="R152">
+    <name>
+      <firstname>Willem II</firstname>
+    </name>
+  </indi>
+  <indi id="R387">
+    <name>
+      <firstname>Cuthburh</firstname>
+    </name>
+  </indi>
+  <indi id="R274">
+    <name>
+      <firstname>Edward, Duke of Kent</firstname>
+    </name>
+  </indi>
+  <indi id="R224">
+    <name>
+      <firstname>Eleanor</firstname>
+      <lastname>de Holand</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F80" />
+    <famc ref="F191" />
+    <birt>
+      <date spec="Not exact" />
+    </birt>
+    <deat>
+      <date>
+        <d>23</d>
+        <m>OCT</m>
+        <y>1405</y>
+      </date>
+    </deat>
+  </indi>
+  <indi id="R292">
+    <name>
+      <firstname>Aethelred I</firstname>
+    </name>
+  </indi>
+  <indi id="R388">
+    <name>
+      <firstname>Aldfrith</firstname>
+    </name>
+  </indi>
+  <indi id="R98">
+    <name>
+      <firstname>James I</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <titl>King of England</titl>
+    <sex type="M" />
+    <fams ref="F25" />
+    <famc ref="F21" />
+    <birt>
+      <date>
+        <d>19</d>
+        <m>JUN</m>
+        <y>1566</y>
+      </date>
+      <plac>Castle, Edinburgh</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>27</d>
+        <m>MAR</m>
+        <y>1625</y>
+      </date>
+      <plac>Theobald's Park, Herts.</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R60">
+    <name>
+      <firstname>Frances</firstname>
+      <lastname>Brandon</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F105" />
+    <famc ref="F104" />
+    <birt>
+      <date>
+        <d>16</d>
+        <m>JUL</m>
+        <y>1517</y>
+      </date>
+      <plac>Hatfield, Herts</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>11</d>
+        <m>NOV</m>
+        <y>1559</y>
+      </date>
+      <plac>Charterhouse, London</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R172">
+    <name>
+      <firstname>Eleanor (Leonor)</firstname>
+    </name>
+  </indi>
+  <indi id="R88">
+    <name>
+      <firstname>Mary I</firstname>
+      <lastname>Tudor</lastname>
+    </name>
+    <titl>Queen of England</titl>
+    <sex type="F" />
+    <fams ref="F101" />
+    <famc ref="F87" />
+    <birt>
+      <date>
+        <d>18</d>
+        <m>FEB</m>
+        <y>1516</y>
+      </date>
+      <plac>Palace, Greenwich</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>17</d>
+        <m>NOV</m>
+        <y>1558</y>
+      </date>
+      <plac>Palace, St. James's</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R233">
+    <name>
+      <firstname>Edward</firstname>
+    </name>
+  </indi>
+  <indi id="R378">
+    <name>
+      <firstname>Coenberht</firstname>
+    </name>
+  </indi>
+  <indi id="R186">
+    <name>
+      <firstname>Margaret, Baroness Wake</firstname>
+    </name>
+  </indi>
+  <indi id="R165">
+    <name>
+      <firstname>Hawise</firstname>
+    </name>
+  </indi>
+  <indi id="R75">
+    <name>
+      <firstname>Richard III ,Duke of Normandy</firstname>
+    </name>
+  </indi>
+  <indi id="R261">
+    <name>
+      <firstname>Henry</firstname>
+      <lastname>Grey</lastname>
+    </name>
+    <titl>Duke of Suffolk</titl>
+    <sex type="M" />
+    <fams ref="F105" />
+    <deat>
+      <date>
+        <d>23</d>
+        <m>FEB</m>
+        <y>1554</y>
+      </date>
+      <plac>Tower Hill</plac>
+    </deat>
+  </indi>
+  <indi id="R361">
+    <name>
+      <firstname>Eadburh</firstname>
+    </name>
+  </indi>
+  <indi id="R374">
+    <name>
+      <firstname>Cedda</firstname>
+    </name>
+  </indi>
+  <indi id="R237">
+    <name>
+      <firstname>Isabel I</firstname>
+    </name>
+  </indi>
+  <indi id="R223">
+    <name>
+      <firstname>Roger</firstname>
+      <lastname>Mortimer</lastname>
+    </name>
+    <titl>Earl of March</titl>
+    <sex type="M" />
+    <fams ref="F80" />
+    <birt>
+      <date>
+        <d>1</d>
+        <m>SEP</m>
+        <y>1373</y>
+      </date>
+      <plac>Usk</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>20</d>
+        <m>JUL</m>
+        <y>1398</y>
+      </date>
+      <plac>Kenlis</plac>
+    </deat>
+    <buri>
+      <plac>Wigmore</plac>
+    </buri>
+  </indi>
+  <indi id="R275">
+    <name>
+      <firstname>Victoria Mary Louisa</firstname>
+    </name>
+  </indi>
+  <indi id="R155">
+    <name>
+      <firstname>Sophie Amalie</firstname>
+    </name>
+  </indi>
+  <indi id="R9">
+    <name>
+      <firstname>Agatha</firstname>
+    </name>
+  </indi>
+  <indi id="R85">
+    <name>
+      <firstname>Engelbert II</firstname>
+    </name>
+  </indi>
+  <indi id="R175">
+    <name>
+      <firstname>Marguerite</firstname>
+    </name>
+  </indi>
+  <indi id="R99">
+    <name>
+      <firstname>Anna of Denmark</firstname>
+    </name>
+  </indi>
+  <indi id="R222">
+    <name>
+      <firstname>Anne</firstname>
+      <lastname>Mortimer</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F79" />
+    <famc ref="F80" />
+    <birt>
+      <date>
+        <d>27</d>
+        <m>DEC</m>
+        <y>1390</y>
+      </date>
+    </birt>
+    <deat>
+      <date>
+        <m>SEP</m>
+        <y>1411</y>
+      </date>
+    </deat>
+    <buri>
+      <plac>Kings Langley, Herts</plac>
+    </buri>
+  </indi>
+  <indi id="R389">
+    <name>
+      <firstname>Cuthwulf (Possibly same as Cutha)</firstname>
+    </name>
+  </indi>
+  <indi id="R185">
+    <name>
+      <firstname>Edmund of Woodstock</firstname>
+    </name>
+  </indi>
+  <indi id="R262">
+    <name>
+      <firstname>Adrian</firstname>
+      <lastname>Stokes</lastname>
+    </name>
+    <sex type="M" />
+    <fams ref="F106" />
+    <deat>
+      <date spec="Not exact" />
+    </deat>
+  </indi>
+  <indi id="R164">
+    <name>
+      <firstname>William, Earl of Gloucester</firstname>
+    </name>
+  </indi>
+  <indi id="R236">
+    <name>
+      <firstname>Fernando V, King of Spain</firstname>
+    </name>
+  </indi>
+  <indi id="R290">
+    <name>
+      <firstname>Aethelbald</firstname>
+    </name>
+  </indi>
+  <indi id="R360">
+    <name>
+      <firstname>Beorthric</firstname>
+    </name>
+  </indi>
+  <indi id="R375">
+    <name>
+      <firstname>Cutha</firstname>
+    </name>
+  </indi>
+  <indi id="R276">
+    <name>
+      <firstname>Victoria (Alexandrina Victoria)</firstname>
+    </name>
+  </indi>
+  <indi id="R280">
+    <name>
+      <firstname>George V (Frederick Ernest Albert)</firstname>
+    </name>
+  </indi>
+  <indi id="R86">
+    <name>
+      <firstname>Uta</firstname>
+    </name>
+  </indi>
+  <indi id="R154">
+    <name>
+      <firstname>Frederik III</firstname>
+    </name>
+  </indi>
+  <indi id="R8">
+    <name>
+      <firstname>Cecilia (Cecily)</firstname>
+    </name>
+  </indi>
+  <indi id="R174">
+    <name>
+      <firstname>Jeanne</firstname>
+    </name>
+  </indi>
+  <indi id="R221">
+    <name>
+      <firstname>Thomas</firstname>
+      <lastname>Stanley</lastname>
+    </name>
+    <titl>Earl of Derby</titl>
+    <sex type="M" />
+    <fams ref="F78" />
+    <deat>
+      <date>
+        <d>29</d>
+        <m>JUL</m>
+        <y>1504</y>
+      </date>
+    </deat>
+  </indi>
+  <indi id="R184">
+    <name>
+      <firstname>Joan of Woodstock</firstname>
+    </name>
+  </indi>
+  <indi id="R76">
+    <name>
+      <firstname>Robert II , The Pious</firstname>
+    </name>
+  </indi>
+  <indi id="R450">
+    <name>
+      <firstname>William I, Count of Poitiers</firstname>
+    </name>
+  </indi>
+  <indi id="R392">
+    <name>
+      <firstname>Bugge</firstname>
+    </name>
+  </indi>
+  <indi id="R196">
+    <name>
+      <firstname>Joan</firstname>
+      <lastname>de Holand</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F61" />
+    <famc ref="F191" />
+    <birt>
+      <date spec="Not exact" />
+    </birt>
+    <deat>
+      <date>
+        <d>12</d>
+        <m>APR</m>
+        <y>1434</y>
+      </date>
+    </deat>
+  </indi>
+  <indi id="R343">
+    <name>
+      <firstname>Ceawlin</firstname>
+    </name>
+  </indi>
+  <indi id="R268">
+    <name>
+      <firstname>Augusta</firstname>
+    </name>
+  </indi>
+  <indi id="R278">
+    <name>
+      <firstname>Edward VII (Albert)</firstname>
+    </name>
+  </indi>
+  <indi id="R158">
+    <name>
+      <firstname>George II (Augustus)</firstname>
+    </name>
+  </indi>
+  <indi id="R258">
+    <name>
+      <firstname>Isabel</firstname>
+    </name>
+  </indi>
+  <indi id="R353">
+    <name>
+      <firstname>Caedwalla</firstname>
+    </name>
+  </indi>
+  <indi id="R382">
+    <name>
+      <firstname>Ingild</firstname>
+    </name>
+  </indi>
+  <indi id="R314">
+    <name>
+      <firstname>Edmund II, Ironside</firstname>
+    </name>
+  </indi>
+  <indi id="R277">
+    <name>
+      <firstname>Francis Albert Augustus Charles Emmanuel</firstname>
+    </name>
+  </indi>
+  <indi id="R334">
+    <name>
+      <firstname>Brand</firstname>
+    </name>
+  </indi>
+  <indi id="R344">
+    <name>
+      <firstname>Cutha</firstname>
+    </name>
+  </indi>
+  <indi id="R430">
+    <name>
+      <firstname>Adelaide</firstname>
+    </name>
+  </indi>
+  <indi id="R248">
+    <name>
+      <firstname>Thomas</firstname>
+      <lastname>Howard</lastname>
+    </name>
+    <titl>Duke of Norfolk</titl>
+    <sex type="M" />
+    <fams ref="F198" />
+    <deat />
+  </indi>
+  <indi id="R300">
+    <name>
+      <firstname>Edmund I, The Magnificent</firstname>
+    </name>
+  </indi>
+  <indi id="R363">
+    <name>
+      <firstname>Cynethryth</firstname>
+    </name>
+  </indi>
+  <indi id="R372">
+    <name>
+      <firstname>Cuthwine</firstname>
+    </name>
+  </indi>
+  <indi id="R197">
+    <name>
+      <firstname>Thomas</firstname>
+      <lastname>de Holand</lastname>
+    </name>
+    <titl>Earl of Kent</titl>
+    <sex type="M" />
+    <fams ref="F191" />
+    <deat />
+  </indi>
+  <indi id="R393" />
+  <indi id="R342">
+    <name>
+      <firstname>Cynric</firstname>
+    </name>
+  </indi>
+  <indi id="R269">
+    <name>
+      <firstname>Friedrich II</firstname>
+    </name>
+  </indi>
+  <indi id="R332">
+    <name>
+      <firstname>Woden</firstname>
+    </name>
+  </indi>
+  <indi id="R279">
+    <name>
+      <firstname>Alexandra Caroline Mary Charlotte Louisa,Julia</firstname>
+    </name>
+  </indi>
+  <indi id="R157">
+    <name>
+      <firstname>George I (Louis)</firstname>
+    </name>
+  </indi>
+  <indi id="R313">
+    <name>
+      <firstname>Richard I, The Fearless</firstname>
+    </name>
+  </indi>
+  <indi id="R383">
+    <name>
+      <firstname>Eoppa</firstname>
+    </name>
+  </indi>
+  <indi id="R156">
+    <name>
+      <firstname>Georg</firstname>
+    </name>
+  </indi>
+  <indi id="R259">
+    <name>
+      <firstname>Louis XII, King of France</firstname>
+    </name>
+  </indi>
+  <indi id="R352">
+    <name>
+      <firstname>Centwine</firstname>
+    </name>
+  </indi>
+  <indi id="R333">
+    <name>
+      <firstname>Baeldaeg</firstname>
+    </name>
+  </indi>
+  <indi id="R249">
+    <name>
+      <firstname>Catherine</firstname>
+      <lastname>Parr</lastname>
+    </name>
+    <titl>Queen of England</titl>
+    <sex type="F" />
+    <fams ref="F95" />
+    <famc ref="F96" />
+    <birt>
+      <date spec="Not exact" />
+      <plac>Castle, Kendal, Westmoreland</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>5</d>
+        <m>SEP</m>
+        <y>1548</y>
+      </date>
+      <plac>Castle, Sudely, Gloucester</plac>
+    </deat>
+    <buri>
+      <plac>Chapel, Sudley, Gloucester</plac>
+    </buri>
+  </indi>
+  <indi id="R373">
+    <name>
+      <firstname>Cynebald</firstname>
+    </name>
+  </indi>
+  <indi id="R362">
+    <name>
+      <firstname>Offa</firstname>
+    </name>
+  </indi>
+  <indi id="R366">
+    <name>
+      <firstname>Cuthred</firstname>
+    </name>
+  </indi>
+  <indi id="R198">
+    <name>
+      <firstname>Anne</firstname>
+    </name>
+  </indi>
+  <indi id="R390">
+    <name>
+      <firstname>Cwichelm?</firstname>
+    </name>
+  </indi>
+  <indi id="R331">
+    <name>
+      <firstname>Harold II</firstname>
+    </name>
+  </indi>
+  <indi id="R384">
+    <name>
+      <firstname>Eafa</firstname>
+    </name>
+  </indi>
+  <indi id="R351">
+    <name>
+      <firstname>Aescwine</firstname>
+    </name>
+  </indi>
+  <indi id="R312">
+    <name>
+      <firstname>Emma (Aelfgifu)</firstname>
+    </name>
+  </indi>
+  <indi id="R370">
+    <name>
+      <firstname>Cuthgils</firstname>
+    </name>
+  </indi>
+  <indi id="R246">
+    <name>
+      <firstname>Catherine</firstname>
+      <lastname>Howard</lastname>
+    </name>
+    <titl>Queen of England</titl>
+    <sex type="F" />
+    <fams ref="F94" />
+    <famc ref="F197" />
+    <birt>
+      <date spec="Not exact" />
+      <plac>Lambeth</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>13</d>
+        <m>FEB</m>
+        <y>1542</y>
+      </date>
+      <plac>Tower Green</plac>
+    </deat>
+    <buri>
+      <plac>Chapel, of St. Peter, ad Vincula, in the Tower</plac>
+    </buri>
+  </indi>
+  <indi id="R302">
+    <name>
+      <firstname>Aethelflaed of Damerham</firstname>
+    </name>
+  </indi>
+  <indi id="R365">
+    <name>
+      <firstname>Cwichelm</firstname>
+    </name>
+  </indi>
+  <indi id="R265">
+    <name>
+      <firstname>Wilhelmina Charlotte Caroline</firstname>
+    </name>
+  </indi>
+  <indi id="R346">
+    <name>
+      <firstname>Ceolwulf</firstname>
+    </name>
+  </indi>
+  <indi id="R267">
+    <name>
+      <firstname>Eleonore Erdmuthe Louise</firstname>
+    </name>
+  </indi>
+  <indi id="R391">
+    <name>
+      <firstname>?, sister of Eormenburh</firstname>
+    </name>
+  </indi>
+  <indi id="R169">
+    <name>
+      <firstname>Eleanor</firstname>
+      <lastname>Berenger</lastname>
+    </name>
+    <titl>Queen of England</titl>
+    <sex type="F" />
+    <fams ref="F45" />
+    <famc ref="F44" />
+    <birt>
+      <date spec="Not exact" />
+      <plac>Aix-en-Provence</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>24</d>
+        <m>JUN</m>
+        <y>1291</y>
+      </date>
+      <plac>Amesbury, Wilts.</plac>
+    </deat>
+  </indi>
+  <indi id="R199">
+    <name>
+      <firstname>Karl IV, Holy Roman Emperor</firstname>
+    </name>
+  </indi>
+  <indi id="R129">
+    <name>
+      <firstname>Catherine</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <sex type="F" />
+    <famc ref="F30" />
+    <birt>
+      <date>
+        <d>29</d>
+        <m>JUN</m>
+        <y>1639</y>
+      </date>
+      <plac>Palace, Whitehall</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>29</d>
+        <m>JUN</m>
+        <y>1639</y>
+      </date>
+      <plac>Palace, Whitehall</plac>
+    </deat>
+  </indi>
+  <indi id="R310">
+    <name>
+      <firstname>Aethelred II, The Unready (The_Redeless)</firstname>
+    </name>
+  </indi>
+  <indi id="R159">
+    <name>
+      <firstname>Frederick Louis</firstname>
+    </name>
+  </indi>
+  <indi id="R330">
+    <name>
+      <firstname>Hardicanute</firstname>
+    </name>
+  </indi>
+  <indi id="R350">
+    <name>
+      <firstname>Seaxburh</firstname>
+    </name>
+  </indi>
+  <indi id="R109">
+    <name>
+      <firstname>Mary</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <sex type="F" />
+    <famc ref="F25" />
+    <birt>
+      <date>
+        <d>8</d>
+        <m>APR</m>
+        <y>1605</y>
+      </date>
+      <plac>Palace, Greenwich</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>16</d>
+        <m>SEP</m>
+        <y>1607</y>
+      </date>
+      <plac>Stanwell Park, Middlesex</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R385">
+    <name>
+      <firstname>Ealhmund</firstname>
+    </name>
+  </indi>
+  <indi id="R311">
+    <name>
+      <firstname>Aefgifu (Elfgiva)</firstname>
+    </name>
+  </indi>
+  <indi id="R364">
+    <name>
+      <firstname>Cyneheard</firstname>
+    </name>
+  </indi>
+  <indi id="R371">
+    <name>
+      <firstname>Cenferth</firstname>
+    </name>
+  </indi>
+  <indi id="R247">
+    <name>
+      <firstname>Lord Edmund</firstname>
+      <lastname>Howard</lastname>
+    </name>
+    <sex type="M" />
+    <fams ref="F197" />
+    <famc ref="F198" />
+    <deat />
+  </indi>
+  <indi id="R301">
+    <name>
+      <firstname>(St.) Aelfgifu</firstname>
+    </name>
+  </indi>
+  <indi id="R266">
+    <name>
+      <firstname>Johann Friedrich</firstname>
+    </name>
+  </indi>
+  <indi id="R345">
+    <name>
+      <firstname>Ceol, or Ceolric</firstname>
+    </name>
+  </indi>
+  <indi id="R440">
+    <name>
+      <firstname>Rolf, or Rollo the Ganger</firstname>
+    </name>
+  </indi>
+  <indi id="R253">
+    <name>
+      <firstname>Edward</firstname>
+      <lastname>Borough</lastname>
+    </name>
+    <titl>Baron Borough</titl>
+    <sex type="M" />
+    <fams ref="F98" />
+    <deat />
+  </indi>
+  <indi id="R358">
+    <name>
+      <firstname>Sigeberht</firstname>
+    </name>
+  </indi>
+  <indi id="R396">
+    <name>
+      <firstname>Aveline</firstname>
+      <lastname>de Forz</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F148" />
+    <famc ref="F149" />
+    <birt>
+      <date>
+        <d>20</d>
+        <m>JAN</m>
+        <y>1259</y>
+      </date>
+    </birt>
+    <deat>
+      <date>
+        <d>10</d>
+        <m>NOV</m>
+        <y>1274</y>
+      </date>
+      <plac>Stockwell</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R243">
+    <name>
+      <firstname>Anne of Cleves</firstname>
+    </name>
+  </indi>
+  <indi id="R368">
+    <name>
+      <firstname>St. Oswald</firstname>
+    </name>
+  </indi>
+  <indi id="R40">
+    <name>
+      <firstname>Edward of Woodstock</firstname>
+    </name>
+  </indi>
+  <indi id="R304">
+    <name>
+      <firstname>Edwy the Fair</firstname>
+    </name>
+  </indi>
+  <indi id="R118">
+    <name>
+      <firstname>Henrietta Maria</firstname>
+    </name>
+  </indi>
+  <indi id="R455">
+    <name>
+      <firstname>Liutgarde</firstname>
+    </name>
+  </indi>
+  <indi id="R108">
+    <name>
+      <firstname>Margaret</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <sex type="F" />
+    <famc ref="F25" />
+    <birt>
+      <date>
+        <d>24</d>
+        <m>DEC</m>
+        <y>1598</y>
+      </date>
+      <plac>Palace, Dalkeith</plac>
+    </birt>
+    <deat>
+      <date>
+        <m>MAR</m>
+      </date>
+      <plac>Linlithgow</plac>
+    </deat>
+  </indi>
+  <indi id="R318">
+    <name>
+      <firstname>Gytha</firstname>
+    </name>
+  </indi>
+  <indi id="R357">
+    <name>
+      <firstname>Cuthred</firstname>
+    </name>
+  </indi>
+  <indi id="R254">
+    <name>
+      <firstname>Thomas</firstname>
+      <lastname>Seymour</lastname>
+    </name>
+    <titl>Baron of Sudely</titl>
+    <sex type="M" />
+    <fams ref="F99" />
+    <deat>
+      <date>
+        <d>5</d>
+        <m>SEP</m>
+        <y>1548</y>
+      </date>
+      <plac>Castle, Sudely, Gloucester</plac>
+    </deat>
+    <buri>
+      <plac>Chapel, Sudley, Gloucester</plac>
+    </buri>
+  </indi>
+  <indi id="R453">
+    <name>
+      <firstname>Frederona</firstname>
+    </name>
+  </indi>
+  <indi id="R397">
+    <name>
+      <firstname>Wiiliam</firstname>
+      <lastname>de Forz</lastname>
+    </name>
+    <titl>Earl of Aumale</titl>
+    <sex type="M" />
+    <fams ref="F149" />
+    <deat />
+  </indi>
+  <indi id="R244">
+    <name>
+      <firstname>Johann III, Duke of Cleves</firstname>
+    </name>
+  </indi>
+  <indi id="R367">
+    <name>
+      <firstname>Cyneburg?</firstname>
+    </name>
+  </indi>
+  <indi id="R117">
+    <name>
+      <firstname>Sophia Dorothea</firstname>
+    </name>
+  </indi>
+  <indi id="R245">
+    <name>
+      <firstname>Marie</firstname>
+    </name>
+  </indi>
+  <indi id="R303">
+    <name>
+      <firstname>Edred</firstname>
+    </name>
+  </indi>
+  <indi id="R458">
+    <name>
+      <firstname>Theobald II</firstname>
+    </name>
+  </indi>
+  <indi id="R454">
+    <name>
+      <firstname>Sprota</firstname>
+    </name>
+  </indi>
+  <indi id="R90">
+    <name>
+      <firstname>James IV</firstname>
+    </name>
+  </indi>
+  <indi id="R107">
+    <name>
+      <firstname>Elizabeth</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <titl>Queen of Bohemia</titl>
+    <sex type="F" />
+    <fams ref="F27" />
+    <famc ref="F25" />
+    <birt>
+      <date>
+        <d>19</d>
+        <m>AUG</m>
+        <y>1596</y>
+      </date>
+      <plac>Dunfermline</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>13</d>
+        <m>FEB</m>
+      </date>
+      <plac>Leicester House, London</plac>
+    </deat>
+    <buri>
+      <plac>Abbey, Westminster</plac>
+    </buri>
+  </indi>
+  <indi id="R80">
+    <name>
+      <firstname>Raoul III</firstname>
+    </name>
+  </indi>
+  <indi id="R317">
+    <name>
+      <firstname>Godwin, Earl of Essex</firstname>
+    </name>
+  </indi>
+  <indi id="R255">
+    <name>
+      <firstname>Lord Guilford</firstname>
+      <lastname>Dudley</lastname>
+    </name>
+    <sex type="M" />
+    <fams ref="F100" />
+    <deat>
+      <date>
+        <d>12</d>
+        <m>FEB</m>
+        <y>1554</y>
+      </date>
+      <plac>Tower Hill</plac>
+    </deat>
+    <buri>
+      <plac>Chapel, of St. Peter, ad Vincula, in the Tower</plac>
+    </buri>
+  </indi>
+  <indi id="R356">
+    <name>
+      <firstname>Aethelheard</firstname>
+    </name>
+  </indi>
+  <indi id="R442">
+    <name>
+      <firstname>Aalof Aarbot</firstname>
+    </name>
+  </indi>
+  <indi id="R341">
+    <name>
+      <firstname>Cerdic</firstname>
+    </name>
+  </indi>
+  <indi id="R394" />
+  <indi id="R452">
+    <name>
+      <firstname>Charles III, the Simple</firstname>
+    </name>
+  </indi>
+  <indi id="R241">
+    <name>
+      <firstname>Jane</firstname>
+      <lastname>Seymour</lastname>
+    </name>
+    <titl>Queen of England</titl>
+    <sex type="F" />
+    <fams ref="F91" />
+    <famc ref="F196" />
+    <birt>
+      <date spec="Not exact" />
+    </birt>
+    <deat>
+      <date>
+        <d>24</d>
+        <m>OCT</m>
+        <y>1537</y>
+      </date>
+      <plac>Palace, Hampton Court</plac>
+    </deat>
+    <buri>
+      <plac>Chapel, St. George's, Windsor</plac>
+    </buri>
+  </indi>
+  <indi id="R457">
+    <name>
+      <firstname>Hildebrande of France</firstname>
+    </name>
+  </indi>
+  <indi id="R306">
+    <name>
+      <firstname>Edgar the Peaceful</firstname>
+    </name>
+  </indi>
+  <indi id="R316">
+    <name>
+      <firstname>Eadgyth (Edith)</firstname>
+    </name>
+  </indi>
+  <indi id="R106" />
+  <indi id="R443">
+    <name>
+      <firstname>Harald the Fairhaired</firstname>
+    </name>
+  </indi>
+  <indi id="R380">
+    <name>
+      <firstname>Ceowald</firstname>
+    </name>
+  </indi>
+  <indi id="R91">
+    <name>
+      <firstname>James V</firstname>
+    </name>
+  </indi>
+  <indi id="R256">
+    <name>
+      <firstname>Philip (Felipe) II</firstname>
+    </name>
+  </indi>
+  <indi id="R441">
+    <name>
+      <firstname>Tore the Silent</firstname>
+    </name>
+  </indi>
+  <indi id="R355">
+    <name>
+      <firstname>Aethelburh</firstname>
+    </name>
+  </indi>
+  <indi id="R340">
+    <name>
+      <firstname>Elesa</firstname>
+    </name>
+  </indi>
+  <indi id="R242">
+    <name>
+      <firstname>Sir John</firstname>
+      <lastname>Seymour</lastname>
+    </name>
+    <titl>Kt. of Wolf Hall</titl>
+    <sex type="M" />
+    <fams ref="F196" />
+    <deat />
+  </indi>
+  <indi id="R369">
+    <name>
+      <firstname>St. Egelwine, or Ethelwine</firstname>
+    </name>
+  </indi>
+  <indi id="R451">
+    <name>
+      <firstname>Giselle</firstname>
+    </name>
+  </indi>
+  <indi id="R395">
+    <name>
+      <firstname>Edmund (Crouchback)</firstname>
+    </name>
+  </indi>
+  <indi id="R456">
+    <name>
+      <firstname>Herdert II</firstname>
+    </name>
+  </indi>
+  <indi id="R305">
+    <name>
+      <firstname>Aelfgifu</firstname>
+    </name>
+  </indi>
+  <indi id="R119">
+    <name>
+      <firstname>Henri IV ,King of France</firstname>
+    </name>
+  </indi>
+  <indi id="R315">
+    <name>
+      <firstname>Edward III, The Confessor</firstname>
+    </name>
+  </indi>
+  <indi id="R354">
+    <name>
+      <firstname>Ine</firstname>
+    </name>
+  </indi>
+  <indi id="R257">
+    <name>
+      <firstname>Carlos I ,King of Spain</firstname>
+    </name>
+  </indi>
+  <indi id="R105">
+    <name>
+      <firstname>Robert</firstname>
+      <lastname>Stuart</lastname>
+    </name>
+    <titl>Earl of Carrick</titl>
+    <sex type="M" />
+    <famc ref="F25" />
+    <birt>
+      <date>
+        <d>18</d>
+        <m>JAN</m>
+      </date>
+      <plac>Dunfermline</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>27</d>
+        <m>MAY</m>
+        <y>1602</y>
+      </date>
+      <plac>Dunfermline</plac>
+    </deat>
+    <buri>
+      <plac>Dunfermline</plac>
+    </buri>
+  </indi>
+  <indi id="R381">
+    <name>
+      <firstname>Cenred</firstname>
+    </name>
+  </indi>
+  <indi id="R92">
+    <name>
+      <firstname>Marie de Lorraine</firstname>
+    </name>
+  </indi>
+  <fam id="F234">
+    <husb ref="R433" />
+    <chil ref="R434" />
+  </fam>
+  <fam id="F71">
+    <husb ref="R45" />
+    <wife ref="R211" />
+    <chil ref="R214" />
+    <marr>
+      <date>
+        <d>23</d>
+        <m>APR</m>
+        <y>1445</y>
+      </date>
+      <plac>Titchfield, Hants.</plac>
+    </marr>
+  </fam>
+  <fam id="F204">
+    <husb ref="R336" />
+    <chil ref="R337" />
+  </fam>
+  <fam id="F176">
+    <husb ref="R323" />
+    <wife ref="R324" />
+    <chil ref="R1" />
+  </fam>
+  <fam id="F160">
+    <husb ref="R14" />
+    <wife ref="R423" />
+    <chil ref="R426" />
+    <chil ref="R427" />
+    <marr>
+      <date>
+        <y>1125</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F186">
+    <husb ref="R132" />
+    <chil ref="R131" />
+  </fam>
+  <fam id="F170">
+    <husb ref="R452" />
+    <wife ref="R453" />
+    <chil ref="R451" />
+    <marr />
+  </fam>
+  <fam id="F214">
+    <husb ref="R347" />
+    <chil ref="R349" />
+    <chil ref="R352" />
+    <chil ref="R365" />
+    <chil ref="R367" />
+    <chil ref="R369" />
+  </fam>
+  <fam id="F224">
+    <husb ref="R374" />
+    <chil ref="R378" />
+  </fam>
+  <fam id="F135">
+    <husb ref="R313" />
+    <wife ref="R320" />
+    <chil ref="R312" />
+    <chil ref="R321" />
+    <marr />
+  </fam>
+  <fam id="F107">
+    <husb ref="R157" />
+    <wife ref="R117" />
+    <chil ref="R158" />
+    <marr>
+      <date>
+        <d>21</d>
+        <m>NOV</m>
+        <y>1682</y>
+      </date>
+      <plac>Zelle</plac>
+    </marr>
+  </fam>
+  <fam id="F12">
+    <husb ref="R75" />
+    <wife ref="R74" />
+    <marr />
+  </fam>
+  <fam id="F120">
+    <husb ref="R290" />
+    <wife ref="R289" />
+    <marr>
+      <date />
+    </marr>
+  </fam>
+  <fam id="F145">
+    <husb ref="R388" />
+    <wife ref="R387" />
+    <marr />
+  </fam>
+  <fam id="F91">
+    <husb ref="R57" />
+    <wife ref="R241" />
+    <chil ref="R58" />
+    <marr>
+      <date>
+        <d>30</d>
+        <m>MAY</m>
+        <y>1536</y>
+      </date>
+      <plac>Wolf Hall, Savernake, Wilts.</plac>
+    </marr>
+  </fam>
+  <fam id="F22">
+    <husb ref="R95" />
+    <wife ref="R62" />
+    <chil ref="R96" />
+    <marr>
+      <date>
+        <d>4</d>
+        <m>AUG</m>
+        <y>1514</y>
+      </date>
+      <plac>Kinnoull</plac>
+    </marr>
+  </fam>
+  <fam id="F72">
+    <husb ref="R212" />
+    <wife ref="R213" />
+    <chil ref="R211" />
+    <marr />
+  </fam>
+  <fam id="F235">
+    <husb ref="R434" />
+    <chil ref="R435" />
+  </fam>
+  <fam id="F70">
+    <husb ref="R210" />
+    <wife ref="R209" />
+    <chil ref="R55" />
+    <marr>
+      <date spec="Not exact" />
+    </marr>
+  </fam>
+  <fam id="F185">
+    <husb ref="R121" />
+    <chil ref="R120" />
+  </fam>
+  <fam id="F39">
+    <husb ref="R30" />
+    <wife ref="R161" />
+    <chil ref="R34" />
+    <chil ref="R35" />
+    <marr>
+      <date>
+        <d>18</d>
+        <m>MAY</m>
+        <y>1152</y>
+      </date>
+      <plac>Bordeaux</plac>
+    </marr>
+  </fam>
+  <fam id="F175">
+    <husb ref="R448" />
+    <wife ref="R455" />
+    <marr />
+  </fam>
+  <fam id="F49">
+    <husb ref="R38" />
+    <wife ref="R178" />
+    <chil ref="R39" />
+    <marr>
+      <date>
+        <d>25</d>
+        <m>JAN</m>
+        <y>1308</y>
+      </date>
+      <plac>Boulogne</plac>
+    </marr>
+  </fam>
+  <fam id="F225">
+    <husb ref="R375" />
+    <chil ref="R380" />
+  </fam>
+  <fam id="F215">
+    <husb ref="R348" />
+    <chil ref="R351" />
+  </fam>
+  <fam id="F108">
+    <husb ref="R263" />
+    <wife ref="R264" />
+    <chil ref="R117" />
+    <marr />
+  </fam>
+  <fam id="F136">
+    <husb ref="R321" />
+    <wife ref="R322" />
+    <chil ref="R75" />
+    <chil ref="R323" />
+    <marr />
+  </fam>
+  <fam id="F11">
+    <husb ref="R65" />
+    <wife ref="R72" />
+    <marr>
+      <date>
+        <m>JAN</m>
+        <y>1128</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F90">
+    <husb ref="R239" />
+    <wife ref="R240" />
+    <marr />
+  </fam>
+  <fam id="F205">
+    <husb ref="R337" />
+    <chil ref="R338" />
+  </fam>
+  <fam id="F21">
+    <husb ref="R94" />
+    <wife ref="R93" />
+    <chil ref="R98" />
+    <marr>
+      <date>
+        <d>29</d>
+        <m>JUL</m>
+        <y>1565</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F146">
+    <husb ref="R352" />
+    <wife ref="R391" />
+    <chil ref="R392" />
+    <marr />
+  </fam>
+  <fam id="F9">
+    <husb ref="R68" />
+    <wife ref="R67" />
+    <marr>
+      <date>
+        <y>1134</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F38">
+    <husb ref="R162" />
+    <wife ref="R161" />
+    <marr />
+  </fam>
+  <fam id="F236">
+    <husb ref="R435" />
+    <chil ref="R436" />
+    <chil ref="R437" />
+  </fam>
+  <fam id="F202">
+    <husb ref="R334" />
+    <chil ref="R335" />
+  </fam>
+  <fam id="F105">
+    <husb ref="R261" />
+    <wife ref="R60" />
+    <chil ref="R59" />
+    <marr>
+      <date spec="Not exact" />
+    </marr>
+  </fam>
+  <fam id="F174">
+    <husb ref="R458" />
+    <wife ref="R455" />
+    <marr />
+  </fam>
+  <fam id="F172">
+    <husb ref="R448" />
+    <wife ref="R454" />
+    <chil ref="R313" />
+    <marr />
+  </fam>
+  <fam id="F222">
+    <husb ref="R372" />
+    <chil ref="R373" />
+    <chil ref="R374" />
+    <chil ref="R375" />
+  </fam>
+  <fam id="F188">
+    <husb ref="R138" />
+    <chil ref="R137" />
+  </fam>
+  <fam id="F133">
+    <husb ref="R317" />
+    <wife ref="R318" />
+    <chil ref="R316" />
+    <chil ref="R331" />
+    <marr />
+  </fam>
+  <fam id="F10">
+    <husb ref="R69" />
+    <wife ref="R70" />
+    <chil ref="R28" />
+    <chil ref="R29" />
+    <chil ref="R67" />
+    <marr />
+  </fam>
+  <fam id="F216">
+    <husb ref="R378" />
+    <chil ref="R353" />
+    <chil ref="R379" />
+  </fam>
+  <fam id="F147">
+    <husb ref="R393" />
+    <wife ref="R394" />
+    <chil ref="R355" />
+    <chil ref="R356" />
+    <marr />
+  </fam>
+  <fam id="F24">
+    <husb ref="R100" />
+    <wife ref="R101" />
+    <chil ref="R99" />
+    <marr />
+  </fam>
+  <fam id="F37">
+    <husb ref="R154" />
+    <wife ref="R155" />
+    <chil ref="R153" />
+    <marr />
+  </fam>
+  <fam id="F8">
+    <husb ref="R65" />
+    <wife ref="R67" />
+    <marr>
+      <date>
+        <y>1123</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F237">
+    <husb ref="R439" />
+    <chil ref="R438" />
+  </fam>
+  <fam id="F203">
+    <husb ref="R335" />
+    <chil ref="R336" />
+  </fam>
+  <fam id="F223">
+    <husb ref="R373" />
+    <chil ref="R376" />
+    <chil ref="R377" />
+  </fam>
+  <fam id="F173">
+    <husb ref="R456" />
+    <wife ref="R457" />
+    <chil ref="R455" />
+    <marr />
+  </fam>
+  <fam id="F171">
+    <husb ref="R440" />
+    <wife ref="R451" />
+    <marr>
+      <date />
+    </marr>
+  </fam>
+  <fam id="F187">
+    <husb ref="R136" />
+    <chil ref="R135" />
+  </fam>
+  <fam id="F134">
+    <husb ref="R314" />
+    <wife ref="R319" />
+    <marr />
+  </fam>
+  <fam id="F217">
+    <husb ref="R381" />
+    <chil ref="R354" />
+    <chil ref="R382" />
+    <chil ref="R386" />
+    <chil ref="R387" />
+  </fam>
+  <fam id="F106">
+    <husb ref="R262" />
+    <wife ref="R60" />
+    <marr>
+      <date>
+        <d>9</d>
+        <m>MAR</m>
+        <y>1554</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F148">
+    <husb ref="R395" />
+    <wife ref="R396" />
+    <marr>
+      <date>
+        <d>9</d>
+        <m>APR</m>
+        <y>1269</y>
+      </date>
+      <plac>Abbey, Westminster</plac>
+    </marr>
+  </fam>
+  <fam id="F23">
+    <husb ref="R97" />
+    <wife ref="R96" />
+    <chil ref="R94" />
+    <marr>
+      <date>
+        <d>6</d>
+        <m>JUL</m>
+        <y>1544</y>
+      </date>
+      <plac>Palace, St. James's, London</plac>
+    </marr>
+  </fam>
+  <fam id="F220">
+    <husb ref="R370" />
+    <chil ref="R371" />
+  </fam>
+  <fam id="F159">
+    <husb ref="R24" />
+    <wife ref="R29" />
+    <marr>
+      <date>
+        <m>JUN</m>
+        <y>1119</y>
+      </date>
+      <plac>Lisieux</plac>
+    </marr>
+  </fam>
+  <fam id="F139">
+    <husb ref="R327" />
+    <wife ref="R312" />
+    <chil ref="R330" />
+    <marr>
+      <date>
+        <d>2</d>
+        <m>JUL</m>
+        <y>1017</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F36">
+    <husb ref="R152" />
+    <wife ref="R125" />
+    <chil ref="R151" />
+    <marr />
+  </fam>
+  <fam id="F96">
+    <husb ref="R250" />
+    <wife ref="R251" />
+    <chil ref="R249" />
+    <marr />
+  </fam>
+  <fam id="F117">
+    <husb ref="R285" />
+    <wife ref="R286" />
+    <chil ref="R287" />
+    <marr />
+  </fam>
+  <fam id="F169">
+    <husb ref="R450" />
+    <wife ref="R449" />
+    <marr>
+      <date />
+    </marr>
+  </fam>
+  <fam id="F230">
+    <husb ref="R399" />
+    <chil ref="R398" />
+  </fam>
+  <fam id="F7">
+    <husb ref="R6" />
+    <wife ref="R64" />
+    <chil ref="R65" />
+    <chil ref="R66" />
+    <marr>
+      <date>
+        <y>1100</y>
+      </date>
+      <plac>Apulia</plac>
+    </marr>
+  </fam>
+  <fam id="F46">
+    <husb ref="R37" />
+    <wife ref="R172" />
+    <chil ref="R38" />
+    <marr>
+      <date>
+        <m>OCT</m>
+        <y>1254</y>
+      </date>
+      <plac>Burgos</plac>
+    </marr>
+  </fam>
+  <fam id="F208">
+    <husb ref="R340" />
+    <chil ref="R341" />
+  </fam>
+  <fam id="F149">
+    <husb ref="R397" />
+    <wife ref="R398" />
+    <chil ref="R396" />
+    <marr />
+  </fam>
+  <fam id="F16">
+    <husb ref="R16" />
+    <wife ref="R81" />
+    <marr />
+  </fam>
+  <fam id="F218">
+    <husb ref="R365" />
+    <chil ref="R366" />
+  </fam>
+  <fam id="F26">
+    <husb ref="R112" />
+    <wife ref="R113" />
+    <chil ref="R111" />
+    <marr />
+  </fam>
+  <fam id="F57">
+    <husb ref="R42" />
+    <wife ref="R190" />
+    <marr>
+      <date>
+        <m>SEP</m>
+        <y>1371</y>
+      </date>
+      <plac>Roquefort, Guienne</plac>
+    </marr>
+  </fam>
+  <fam id="F81">
+    <husb ref="R48" />
+    <wife ref="R225" />
+    <marr>
+      <date spec="Not exact" />
+    </marr>
+  </fam>
+  <fam id="F35">
+    <husb ref="R151" />
+    <wife ref="R143" />
+    <marr>
+      <date>
+        <d>4</d>
+        <m>NOV</m>
+        <y>1677</y>
+      </date>
+      <plac>Palace, St. James's</plac>
+    </marr>
+  </fam>
+  <fam id="F189">
+    <husb ref="R150" />
+    <chil ref="R149" />
+  </fam>
+  <fam id="F221">
+    <husb ref="R343" />
+    <chil ref="R372" />
+  </fam>
+  <fam id="F179">
+    <husb ref="R76" />
+    <chil ref="R74" />
+  </fam>
+  <fam id="F45">
+    <husb ref="R36" />
+    <wife ref="R169" />
+    <chil ref="R37" />
+    <chil ref="R395" />
+    <marr>
+      <date>
+        <d>14</d>
+        <m>JAN</m>
+        <y>1236</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F95">
+    <husb ref="R57" />
+    <wife ref="R249" />
+    <marr>
+      <date>
+        <d>12</d>
+        <m>JUL</m>
+        <y>1543</y>
+      </date>
+      <plac>Palace, Hampton Court</plac>
+    </marr>
+  </fam>
+  <fam id="F231">
+    <husb ref="R404" />
+    <chil ref="R402" />
+  </fam>
+  <fam id="F118">
+    <husb ref="R287" />
+    <wife ref="R288" />
+    <chil ref="R290" />
+    <chil ref="R291" />
+    <chil ref="R292" />
+    <chil ref="R293" />
+    <marr />
+  </fam>
+  <fam id="F209">
+    <husb ref="R341" />
+    <chil ref="R342" />
+  </fam>
+  <fam id="F6">
+    <husb ref="R55" />
+    <wife ref="R54" />
+    <chil ref="R56" />
+    <marr>
+      <date>
+        <y>1455</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F199">
+    <husb ref="R385" />
+    <chil ref="R285" />
+  </fam>
+  <fam id="F15">
+    <husb ref="R82" />
+    <wife ref="R83" />
+    <chil ref="R81" />
+    <marr />
+  </fam>
+  <fam id="F58">
+    <husb ref="R191" />
+    <wife ref="R192" />
+    <chil ref="R190" />
+    <chil ref="R195" />
+    <marr />
+  </fam>
+  <fam id="F25">
+    <husb ref="R98" />
+    <wife ref="R99" />
+    <chil ref="R103" />
+    <chil ref="R104" />
+    <chil ref="R105" />
+    <chil ref="R106" />
+    <chil ref="R107" />
+    <chil ref="R108" />
+    <chil ref="R109" />
+    <chil ref="R110" />
+    <marr>
+      <date>
+        <d>23</d>
+        <m>NOV</m>
+        <y>1589</y>
+      </date>
+      <plac>Oslo, Norway</plac>
+    </marr>
+  </fam>
+  <fam id="F219">
+    <husb ref="R346" />
+    <chil ref="R370" />
+  </fam>
+  <fam id="F80">
+    <husb ref="R223" />
+    <wife ref="R224" />
+    <chil ref="R222" />
+    <marr>
+      <date>
+        <d>7</d>
+        <m>OCT</m>
+        <y>1388</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F157">
+    <husb ref="R418" />
+    <wife ref="R419" />
+    <chil ref="R409" />
+    <marr />
+  </fam>
+  <fam id="F48">
+    <husb ref="R37" />
+    <wife ref="R175" />
+    <chil ref="R185" />
+    <marr>
+      <date>
+        <d>8</d>
+        <m>SEP</m>
+        <y>1299</y>
+      </date>
+      <plac>Cathedral, Canterbury</plac>
+    </marr>
+  </fam>
+  <fam id="F129">
+    <husb ref="R306" />
+    <wife ref="R308" />
+    <chil ref="R310" />
+    <marr />
+  </fam>
+  <fam id="F34">
+    <husb ref="R148" />
+    <wife ref="R149" />
+    <chil ref="R147" />
+    <marr />
+  </fam>
+  <fam id="F84">
+    <husb ref="R46" />
+    <wife ref="R230" />
+    <chil ref="R50" />
+    <chil ref="R234" />
+    <marr>
+      <date>
+        <d>1</d>
+        <m>MAY</m>
+        <y>1464</y>
+      </date>
+      <plac>Grafton Regis, Nothants.</plac>
+    </marr>
+  </fam>
+  <fam id="F94">
+    <husb ref="R57" />
+    <wife ref="R246" />
+    <marr>
+      <date>
+        <d>28</d>
+        <m>JUL</m>
+        <y>1540</y>
+      </date>
+      <plac>Palace, Hampton Court</plac>
+    </marr>
+  </fam>
+  <fam id="F119">
+    <husb ref="R287" />
+    <wife ref="R289" />
+    <marr>
+      <date>
+        <d>1</d>
+        <m>OCT</m>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F232">
+    <husb ref="R407" />
+    <chil ref="R408" />
+  </fam>
+  <fam id="F178">
+    <husb ref="R71" />
+    <chil ref="R70" />
+  </fam>
+  <fam id="F59">
+    <husb ref="R42" />
+    <wife ref="R193" />
+    <chil ref="R52" />
+    <chil ref="R229" />
+    <marr>
+      <date>
+        <d>13</d>
+        <m>JAN</m>
+        <y>1396</y>
+      </date>
+      <plac>Lincoln</plac>
+    </marr>
+  </fam>
+  <fam id="F198">
+    <husb ref="R248" />
+    <chil ref="R247" />
+  </fam>
+  <fam id="F14">
+    <husb ref="R78" />
+    <wife ref="R79" />
+    <chil ref="R15" />
+    <marr />
+  </fam>
+  <fam id="F206">
+    <husb ref="R338" />
+    <chil ref="R339" />
+  </fam>
+  <fam id="F93">
+    <husb ref="R244" />
+    <wife ref="R245" />
+    <chil ref="R243" />
+    <marr />
+  </fam>
+  <fam id="F5">
+    <husb ref="R7" />
+    <wife ref="R33" />
+    <marr>
+      <date>
+        <d>29</d>
+        <m>JAN</m>
+        <y>1121</y>
+      </date>
+      <plac>Windsor Castle</plac>
+    </marr>
+  </fam>
+  <fam id="F69">
+    <husb ref="R44" />
+    <wife ref="R209" />
+    <chil ref="R45" />
+    <marr>
+      <date>
+        <d>2</d>
+        <m>JUN</m>
+        <y>1420</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F28">
+    <husb ref="R116" />
+    <wife ref="R115" />
+    <chil ref="R157" />
+    <marr>
+      <date>
+        <d>30</d>
+        <m>SEP</m>
+        <y>1658</y>
+      </date>
+      <plac>Heidelberg</plac>
+    </marr>
+  </fam>
+  <fam id="F109">
+    <husb ref="R158" />
+    <wife ref="R265" />
+    <chil ref="R159" />
+    <marr>
+      <date>
+        <d>22</d>
+        <m>AUG</m>
+        <y>1705</y>
+      </date>
+      <plac>Abbey, Westminster</plac>
+    </marr>
+  </fam>
+  <fam id="F137">
+    <husb ref="R325" />
+    <wife ref="R326" />
+    <chil ref="R327" />
+    <marr />
+  </fam>
+  <fam id="F83">
+    <husb ref="R228" />
+    <wife ref="R229" />
+    <marr>
+      <date>
+        <d>20</d>
+        <m>FEB</m>
+        <y>1397</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F47">
+    <husb ref="R173" />
+    <wife ref="R174" />
+    <chil ref="R172" />
+    <marr />
+  </fam>
+  <fam id="F158">
+    <husb ref="R420" />
+    <wife ref="R415" />
+    <chil ref="R421" />
+    <chil ref="R422" />
+    <marr>
+      <date>
+        <d>6</d>
+        <m>MAY</m>
+        <y>1960</y>
+      </date>
+      <plac>Abbey, Westminster</plac>
+    </marr>
+  </fam>
+  <fam id="F33">
+    <husb ref="R123" />
+    <wife ref="R137" />
+    <chil ref="R139" />
+    <chil ref="R140" />
+    <chil ref="R141" />
+    <chil ref="R142" />
+    <chil ref="R143" />
+    <chil ref="R144" />
+    <chil ref="R145" />
+    <chil ref="R146" />
+    <marr>
+      <date>
+        <d>24</d>
+        <m>NOV</m>
+        <y>1659</y>
+      </date>
+      <plac>Breda</plac>
+    </marr>
+    <div isdiv="N" />
+  </fam>
+  <fam id="F233">
+    <husb ref="R432" />
+    <chil ref="R430" />
+  </fam>
+  <fam id="F177">
+    <husb ref="R63" />
+    <chil ref="R64" />
+  </fam>
+  <fam id="F207">
+    <husb ref="R339" />
+    <chil ref="R340" />
+  </fam>
+  <fam id="F197">
+    <husb ref="R247" />
+    <chil ref="R246" />
+  </fam>
+  <fam id="F92">
+    <husb ref="R57" />
+    <wife ref="R243" />
+    <marr>
+      <date>
+        <d>6</d>
+        <m>JAN</m>
+        <y>1540</y>
+      </date>
+      <plac>Greenwich</plac>
+    </marr>
+  </fam>
+  <fam id="F4">
+    <husb ref="R28" />
+    <wife ref="R26" />
+    <chil ref="R30" />
+    <chil ref="R31" />
+    <chil ref="R32" />
+    <marr>
+      <date>
+        <d>22</d>
+        <m>NOV</m>
+        <y>1127</y>
+      </date>
+      <plac>Le Mans</plac>
+    </marr>
+  </fam>
+  <fam id="F82">
+    <husb ref="R47" />
+    <wife ref="R227" />
+    <chil ref="R46" />
+    <chil ref="R51" />
+    <marr>
+      <date spec="Not exact" />
+    </marr>
+  </fam>
+  <fam id="F13">
+    <husb ref="R73" />
+    <wife ref="R74" />
+    <chil ref="R5" />
+    <marr>
+      <date spec="Not exact" />
+    </marr>
+  </fam>
+  <fam id="F138">
+    <husb ref="R327" />
+    <wife ref="R328" />
+    <chil ref="R329" />
+    <marr />
+  </fam>
+  <fam id="F27">
+    <husb ref="R111" />
+    <wife ref="R107" />
+    <chil ref="R115" />
+    <marr>
+      <date>
+        <d>14</d>
+        <m>FEB</m>
+      </date>
+      <plac>Chapel Royal, Whitehall</plac>
+    </marr>
+  </fam>
+  <fam id="F66">
+    <husb ref="R43" />
+    <wife ref="R204" />
+    <chil ref="R44" />
+    <marr>
+      <date spec="Not exact" />
+      <plac>Castle, Arundel</plac>
+    </marr>
+  </fam>
+  <fam id="F3">
+    <husb ref="R27" />
+    <wife ref="R26" />
+    <marr>
+      <date>
+        <d>7</d>
+        <m>JAN</m>
+        <y>1114</y>
+      </date>
+      <plac>Mainz</plac>
+    </marr>
+  </fam>
+  <fam id="F114">
+    <husb ref="R274" />
+    <wife ref="R275" />
+    <chil ref="R276" />
+    <marr>
+      <date>
+        <d>29</d>
+        <m>MAY</m>
+        <y>1818</y>
+      </date>
+      <plac>Coburg</plac>
+    </marr>
+    <marr>
+      <date>
+        <d>11</d>
+        <m>JUL</m>
+        <y>1818</y>
+      </date>
+      <plac>Palace, Kew</plac>
+    </marr>
+  </fam>
+  <fam id="F165">
+    <husb ref="R436" />
+    <wife ref="R438" />
+    <chil ref="R440" />
+    <chil ref="R441" />
+    <marr />
+  </fam>
+  <fam id="F53">
+    <husb ref="R185" />
+    <wife ref="R186" />
+    <chil ref="R184" />
+    <marr>
+      <date>
+        <d>25</d>
+        <m>DEC</m>
+        <y>1325</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F86">
+    <husb ref="R56" />
+    <wife ref="R234" />
+    <chil ref="R57" />
+    <chil ref="R61" />
+    <chil ref="R62" />
+    <marr>
+      <date>
+        <d>18</d>
+        <m>JAN</m>
+        <y>1486</y>
+      </date>
+      <plac>Westminster</plac>
+    </marr>
+  </fam>
+  <fam id="F43">
+    <husb ref="R167" />
+    <wife ref="R168" />
+    <chil ref="R166" />
+    <marr />
+  </fam>
+  <fam id="F155">
+    <husb ref="R281" />
+    <wife ref="R416" />
+    <marr>
+      <date>
+        <d>3</d>
+        <m>JUN</m>
+        <y>1937</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F128">
+    <husb ref="R306" />
+    <wife ref="R307" />
+    <chil ref="R309" />
+    <marr />
+  </fam>
+  <fam id="F100">
+    <husb ref="R255" />
+    <wife ref="R59" />
+    <marr>
+      <date>
+        <d>21</d>
+        <m>MAY</m>
+        <y>1553</y>
+      </date>
+      <plac>Durham House, London</plac>
+    </marr>
+  </fam>
+  <fam id="F127">
+    <husb ref="R304" />
+    <wife ref="R305" />
+    <marr>
+      <date />
+    </marr>
+  </fam>
+  <fam id="F29">
+    <husb ref="R119" />
+    <wife ref="R120" />
+    <chil ref="R118" />
+    <marr />
+  </fam>
+  <fam id="F65">
+    <husb ref="R202" />
+    <wife ref="R203" />
+    <chil ref="R201" />
+    <chil ref="R209" />
+    <marr />
+  </fam>
+  <fam id="F19">
+    <husb ref="R90" />
+    <wife ref="R62" />
+    <chil ref="R91" />
+    <marr>
+      <date>
+        <d>8</d>
+        <m>AUG</m>
+        <y>1503</y>
+      </date>
+      <plac>Holyrood House, Edinburgh</plac>
+    </marr>
+  </fam>
+  <fam id="F79">
+    <husb ref="R48" />
+    <wife ref="R222" />
+    <chil ref="R47" />
+    <marr>
+      <date>
+        <m>MAY</m>
+        <y>1406</y>
+      </date>
+      <plac>Castle, Conisborough, Yorks</plac>
+    </marr>
+  </fam>
+  <fam id="F2">
+    <husb ref="R7" />
+    <wife ref="R22" />
+    <chil ref="R23" />
+    <chil ref="R24" />
+    <chil ref="R25" />
+    <chil ref="R26" />
+    <marr>
+      <date>
+        <d>11</d>
+        <m>NOV</m>
+        <y>1100</y>
+      </date>
+      <plac>Abbey, Westminster</plac>
+    </marr>
+  </fam>
+  <fam id="F113">
+    <husb ref="R160" />
+    <wife ref="R271" />
+    <chil ref="R272" />
+    <chil ref="R273" />
+    <chil ref="R274" />
+    <marr>
+      <date>
+        <d>8</d>
+        <m>SEP</m>
+        <y>1761</y>
+      </date>
+      <plac>Palace, St. James's</plac>
+    </marr>
+  </fam>
+  <fam id="F99">
+    <husb ref="R254" />
+    <wife ref="R249" />
+    <marr>
+      <date>
+        <m>APR</m>
+        <y>1547</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F166">
+    <husb ref="R441" />
+    <wife ref="R442" />
+    <chil ref="R444" />
+    <marr>
+      <date spec="Not exact" />
+    </marr>
+  </fam>
+  <fam id="F54">
+    <husb ref="R40" />
+    <wife ref="R184" />
+    <chil ref="R41" />
+    <marr>
+      <date>
+        <d>10</d>
+        <m>OCT</m>
+        <y>1361</y>
+      </date>
+      <plac>Windsor</plac>
+    </marr>
+  </fam>
+  <fam id="F190">
+    <husb ref="R194" />
+    <chil ref="R193" />
+  </fam>
+  <fam id="F180">
+    <husb ref="R80" />
+    <chil ref="R79" />
+  </fam>
+  <fam id="F85">
+    <husb ref="R231" />
+    <wife ref="R232" />
+    <chil ref="R230" />
+    <marr />
+  </fam>
+  <fam id="F44">
+    <husb ref="R170" />
+    <wife ref="R171" />
+    <chil ref="R169" />
+    <marr />
+  </fam>
+  <fam id="F156">
+    <husb ref="R280" />
+    <wife ref="R417" />
+    <chil ref="R281" />
+    <chil ref="R282" />
+    <marr />
+  </fam>
+  <fam id="F68">
+    <husb ref="R207" />
+    <wife ref="R208" />
+    <chil ref="R206" />
+    <marr />
+  </fam>
+  <fam id="F126">
+    <husb ref="R300" />
+    <wife ref="R302" />
+    <marr />
+  </fam>
+  <fam id="F1">
+    <husb ref="R15" />
+    <wife ref="R11" />
+    <chil ref="R14" />
+    <chil ref="R16" />
+    <chil ref="R17" />
+    <chil ref="R18" />
+    <chil ref="R19" />
+    <chil ref="R20" />
+    <chil ref="R21" />
+    <marr>
+      <date spec="Not exact" />
+      <plac>Chartres</plac>
+    </marr>
+  </fam>
+  <fam id="F116">
+    <husb ref="R278" />
+    <wife ref="R279" />
+    <chil ref="R280" />
+    <marr>
+      <date>
+        <d>10</d>
+        <m>MAR</m>
+        <y>1863</y>
+      </date>
+      <plac>Chapel, St. George's, Windsor</plac>
+    </marr>
+  </fam>
+  <fam id="F18">
+    <husb ref="R85" />
+    <wife ref="R86" />
+    <chil ref="R84" />
+    <marr />
+  </fam>
+  <fam id="F78">
+    <husb ref="R221" />
+    <wife ref="R54" />
+    <marr />
+  </fam>
+  <fam id="F191">
+    <husb ref="R197" />
+    <chil ref="R196" />
+    <chil ref="R217" />
+    <chil ref="R224" />
+  </fam>
+  <fam id="F167">
+    <husb ref="R445" />
+    <wife ref="R444" />
+    <marr />
+  </fam>
+  <fam id="F55">
+    <husb ref="R42" />
+    <wife ref="R187" />
+    <chil ref="R43" />
+    <marr>
+      <date>
+        <d>13</d>
+        <m>MAY</m>
+        <y>1359</y>
+      </date>
+      <plac>Queen's Chapel, Reading</plac>
+    </marr>
+  </fam>
+  <fam id="F98">
+    <husb ref="R253" />
+    <wife ref="R249" />
+    <marr>
+      <date spec="Not exact" />
+    </marr>
+  </fam>
+  <fam id="F88">
+    <husb ref="R236" />
+    <wife ref="R237" />
+    <chil ref="R235" />
+    <marr />
+  </fam>
+  <fam id="F153">
+    <husb ref="R409" />
+    <wife ref="R283" />
+    <chil ref="R284" />
+    <chil ref="R411" />
+    <chil ref="R412" />
+    <chil ref="R413" />
+    <marr>
+      <date>
+        <d>20</d>
+        <m>NOV</m>
+        <y>1947</y>
+      </date>
+      <plac>Abbey, Westminster</plac>
+    </marr>
+  </fam>
+  <fam id="F41">
+    <husb ref="R164" />
+    <wife ref="R165" />
+    <chil ref="R163" />
+    <marr />
+  </fam>
+  <fam id="F67">
+    <husb ref="R43" />
+    <wife ref="R206" />
+    <marr>
+      <date>
+        <d>7</d>
+        <m>FEB</m>
+        <y>1403</y>
+      </date>
+      <plac>Cathedral, Winchester</plac>
+    </marr>
+  </fam>
+  <fam id="F140">
+    <husb ref="R349" />
+    <wife ref="R350" />
+    <marr>
+      <date />
+    </marr>
+  </fam>
+  <fam id="F125">
+    <husb ref="R300" />
+    <wife ref="R301" />
+    <chil ref="R304" />
+    <chil ref="R306" />
+    <marr />
+  </fam>
+  <fam id="F0">
+    <husb ref="R1" />
+    <wife ref="R5" />
+    <chil ref="R4" />
+    <chil ref="R6" />
+    <chil ref="R7" />
+    <chil ref="R8" />
+    <chil ref="R9" />
+    <chil ref="R10" />
+    <chil ref="R11" />
+    <chil ref="R12" />
+    <chil ref="R13" />
+    <chil ref="R77" />
+    <marr>
+      <date spec="Not exact" />
+      <plac>Eu</plac>
+    </marr>
+  </fam>
+  <fam id="F115">
+    <husb ref="R277" />
+    <wife ref="R276" />
+    <chil ref="R278" />
+    <marr>
+      <date>
+        <d>10</d>
+        <m>FEB</m>
+        <y>1840</y>
+      </date>
+      <plac>Chapel Royal, St. James's, Palace</plac>
+    </marr>
+  </fam>
+  <fam id="F17">
+    <husb ref="R17" />
+    <wife ref="R84" />
+    <marr>
+      <date>
+        <y>1123</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F77">
+    <husb ref="R220" />
+    <wife ref="R54" />
+    <marr>
+      <date spec="Not exact" />
+    </marr>
+  </fam>
+  <fam id="F192">
+    <husb ref="R205" />
+    <chil ref="R204" />
+  </fam>
+  <fam id="F97">
+    <husb ref="R252" />
+    <wife ref="R249" />
+    <marr>
+      <date spec="Not exact" />
+    </marr>
+  </fam>
+  <fam id="F168">
+    <husb ref="R440" />
+    <wife ref="R446" />
+    <chil ref="R448" />
+    <chil ref="R449" />
+    <marr>
+      <date spec="Not exact" />
+    </marr>
+    <marr>
+      <date spec="Not exact" />
+    </marr>
+  </fam>
+  <fam id="F56">
+    <husb ref="R188" />
+    <wife ref="R189" />
+    <chil ref="R187" />
+    <marr />
+  </fam>
+  <fam id="F154">
+    <husb ref="R282" />
+    <wife ref="R414" />
+    <chil ref="R283" />
+    <chil ref="R415" />
+    <marr>
+      <date>
+        <d>26</d>
+        <m>APR</m>
+        <y>1923</y>
+      </date>
+      <plac>Abbey, Westminster</plac>
+    </marr>
+  </fam>
+  <fam id="F87">
+    <husb ref="R57" />
+    <wife ref="R235" />
+    <chil ref="R88" />
+    <marr>
+      <date>
+        <d>11</d>
+        <m>JUN</m>
+        <y>1509</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F42">
+    <husb ref="R35" />
+    <wife ref="R166" />
+    <chil ref="R36" />
+    <marr>
+      <date>
+        <d>24</d>
+        <m>AUG</m>
+        <y>1200</y>
+      </date>
+      <plac>Bordeaux</plac>
+    </marr>
+  </fam>
+  <fam id="F110">
+    <husb ref="R266" />
+    <wife ref="R267" />
+    <chil ref="R265" />
+    <marr />
+  </fam>
+  <fam id="F239">
+    <husb ref="R447" />
+    <chil ref="R446" />
+  </fam>
+  <fam id="F76">
+    <husb ref="R53" />
+    <wife ref="R218" />
+    <chil ref="R54" />
+    <marr>
+      <date>
+        <y>1439</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F62">
+    <husb ref="R41" />
+    <wife ref="R198" />
+    <marr>
+      <date>
+        <d>20</d>
+        <m>JAN</m>
+        <y>1382</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F124">
+    <husb ref="R295" />
+    <wife ref="R298" />
+    <chil ref="R300" />
+    <chil ref="R303" />
+    <marr />
+  </fam>
+  <fam id="F141">
+    <husb ref="R354" />
+    <wife ref="R355" />
+    <marr />
+  </fam>
+  <fam id="F229">
+    <husb ref="R384" />
+    <chil ref="R385" />
+  </fam>
+  <fam id="F131">
+    <husb ref="R310" />
+    <wife ref="R312" />
+    <chil ref="R315" />
+    <marr />
+  </fam>
+  <fam id="F104">
+    <husb ref="R260" />
+    <wife ref="R61" />
+    <chil ref="R60" />
+    <marr>
+      <date>
+        <d>3</d>
+        <m>MAR</m>
+        <y>1515</y>
+      </date>
+      <plac>Paris</plac>
+    </marr>
+    <marr>
+      <date>
+        <d>13</d>
+        <m>MAY</m>
+        <y>1515</y>
+      </date>
+      <plac>Grey Friars, Greenwich</plac>
+    </marr>
+  </fam>
+  <fam id="F211">
+    <husb ref="R344" />
+    <chil ref="R345" />
+    <chil ref="R346" />
+  </fam>
+  <fam id="F183">
+    <husb ref="R114" />
+    <chil ref="R113" />
+  </fam>
+  <fam id="F161">
+    <husb ref="R424" />
+    <wife ref="R425" />
+    <marr />
+  </fam>
+  <fam id="F151">
+    <husb ref="R401" />
+    <wife ref="R400" />
+    <marr>
+      <date spec="Not exact" />
+    </marr>
+  </fam>
+  <fam id="F193">
+    <husb ref="R216" />
+    <chil ref="R215" />
+  </fam>
+  <fam id="F201">
+    <husb ref="R333" />
+    <chil ref="R334" />
+  </fam>
+  <fam id="F142">
+    <husb ref="R360" />
+    <wife ref="R361" />
+    <marr>
+      <date />
+    </marr>
+  </fam>
+  <fam id="F238">
+    <husb ref="R443" />
+    <chil ref="R442" />
+  </fam>
+  <fam id="F75">
+    <husb ref="R52" />
+    <wife ref="R217" />
+    <chil ref="R53" />
+    <marr>
+      <date>
+        <d>23</d>
+        <m>APR</m>
+        <y>1399</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F30">
+    <husb ref="R104" />
+    <wife ref="R120" />
+    <chil ref="R122" />
+    <chil ref="R123" />
+    <chil ref="R124" />
+    <chil ref="R125" />
+    <chil ref="R126" />
+    <chil ref="R127" />
+    <chil ref="R128" />
+    <chil ref="R129" />
+    <chil ref="R130" />
+    <marr>
+      <date>
+        <d>13</d>
+        <m>JUN</m>
+        <y>1625</y>
+      </date>
+      <plac>Canterbury</plac>
+    </marr>
+  </fam>
+  <fam id="F20">
+    <husb ref="R91" />
+    <wife ref="R92" />
+    <chil ref="R93" />
+    <marr>
+      <date>
+        <d>12</d>
+        <m>JUN</m>
+        <y>1538</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F61">
+    <husb ref="R49" />
+    <wife ref="R196" />
+    <marr>
+      <date>
+        <d>4</d>
+        <m>NOV</m>
+        <y>1393</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F123">
+    <husb ref="R295" />
+    <wife ref="R297" />
+    <marr />
+  </fam>
+  <fam id="F132">
+    <husb ref="R315" />
+    <wife ref="R316" />
+    <marr>
+      <date>
+        <d>23</d>
+        <m>JAN</m>
+        <y>1045</y>
+      </date>
+    </marr>
+  </fam>
+  <fam id="F228">
+    <husb ref="R383" />
+    <chil ref="R384" />
+  </fam>
+  <fam id="F103">
+    <husb ref="R259" />
+    <wife ref="R61" />
+    <marr>
+      <date>
+        <d>9</d>
+        <m>OCT</m>
+        <y>1514</y>
+      </date>
+      <plac>Abbeville</plac>
+    </marr>
+  </fam>
+  <fam id="F40">
+    <husb ref="R35" />
+    <wife ref="R163" />
+    <marr>
+      <date>
+        <d>29</d>
+        <m>AUG</m>
+        <y>1189</y>
+      </date>
+      <plac>Marlebridge</plac>
+    </marr>
+  </fam>
+  <fam id="F184">
+    <husb ref="R156" />
+    <chil ref="R116" />
+    <chil ref="R155" />
+  </fam>
+  <fam id="F89">
+    <husb ref="R57" />
+    <wife ref="R238" />
+    <chil ref="R89" />
+    <marr>
+      <date>
+        <d>25</d>
+        <m>JAN</m>
+        <y>1533</y>
+      </date>
+      <plac>Whitehall, or Westminster</plac>
+    </marr>
+  </fam>
+  <fam id="F60">
+    <husb ref="R49" />
+    <wife ref="R195" />
+    <chil ref="R48" />
+    <marr>
+      <date>
+        <d>1</d>
+        <m>MAR</m>
+        <y>1372</y>
+      </date>
+      <plac>Hertford (?)</plac>
+    </marr>
+  </fam>
+  <fam id="F162">
+    <husb ref="R427" />
+    <wife ref="R428" />
+    <marr>
+      <date>
+        <m>FEB</m>
+        <y>1140</y>
+      </date>
+      <plac>Paris</plac>
+    </marr>
+  </fam>
+  <fam id="F210">
+    <husb ref="R342" />
+    <chil ref="R343" />
+    <chil ref="R344" />
+    <chil ref="R389" />
+    <chil ref="R390" />
+  </fam>
+  <fam id="F200">
+    <husb ref="R332" />
+    <chil ref="R333" />
+  </fam>
+  <fam id="F152">
+    <husb ref="R402" />
+    <wife ref="R403" />
+    <chil ref="R400" />
+    <marr />
+  </fam>
+  <fam id="F194">
+    <husb ref="R219" />
+    <chil ref="R218" />
+  </fam>
+  <fam id="F50">
+    <husb ref="R179" />
+    <wife ref="R180" />
+    <chil ref="R178" />
+    <marr />
+  </fam>
+  <fam id="F31">
+    <husb ref="R131" />
+    <wife ref="R130" />
+    <marr>
+      <date>
+        <d>31</d>
+        <m>MAR</m>
+        <y>1661</y>
+      </date>
+      <plac>Chapel, Palais Royal, Paris</plac>
+    </marr>
+  </fam>
+  <fam id="F74">
+    <husb ref="R51" />
+    <wife ref="R215" />
+    <chil ref="R233" />
+    <marr>
+      <date>
+        <d>12</d>
+        <m>JUL</m>
+        <y>1472</y>
+      </date>
+      <plac>Westminster</plac>
+    </marr>
+  </fam>
+  <fam id="F143">
+    <husb ref="R362" />
+    <wife ref="R363" />
+    <chil ref="R361" />
+    <marr />
+  </fam>
+  <fam id="F112">
+    <husb ref="R269" />
+    <wife ref="R270" />
+    <chil ref="R268" />
+    <marr />
+  </fam>
+  <fam id="F227">
+    <husb ref="R382" />
+    <chil ref="R383" />
+  </fam>
+  <fam id="F122">
+    <husb ref="R295" />
+    <wife ref="R296" />
+    <chil ref="R299" />
+    <marr />
+  </fam>
+  <fam id="F64">
+    <husb ref="R41" />
+    <wife ref="R201" />
+    <marr>
+      <date>
+        <d>4</d>
+        <m>NOV</m>
+        <y>1396</y>
+      </date>
+      <plac>Church, St. Nicholas, Calais</plac>
+    </marr>
+  </fam>
+  <fam id="F163">
+    <husb ref="R429" />
+    <wife ref="R430" />
+    <chil ref="R428" />
+    <marr />
+  </fam>
+  <fam id="F102">
+    <husb ref="R257" />
+    <wife ref="R258" />
+    <chil ref="R256" />
+    <marr />
+  </fam>
+  <fam id="F213">
+    <husb ref="R371" />
+    <chil ref="R348" />
+  </fam>
+  <fam id="F181">
+    <husb ref="R87" />
+    <chil ref="R86" />
+  </fam>
+  <fam id="F51">
+    <husb ref="R39" />
+    <wife ref="R181" />
+    <chil ref="R40" />
+    <chil ref="R42" />
+    <chil ref="R49" />
+    <marr>
+      <date>
+        <d>24</d>
+        <m>JAN</m>
+        <y>1328</y>
+      </date>
+      <plac>York Minster</plac>
+    </marr>
+  </fam>
+  <fam id="F195">
+    <husb ref="R226" />
+    <chil ref="R225" />
+  </fam>
+  <fam id="F73">
+    <husb ref="R214" />
+    <wife ref="R215" />
+    <marr>
+      <date>
+        <m>AUG</m>
+        <y>1470</y>
+      </date>
+      <plac>Ambiose</plac>
+    </marr>
+  </fam>
+  <fam id="F111">
+    <husb ref="R159" />
+    <wife ref="R268" />
+    <chil ref="R160" />
+    <marr>
+      <date>
+        <d>8</d>
+        <m>MAY</m>
+        <y>1736</y>
+      </date>
+      <plac>Chapel Royal, St; James</plac>
+    </marr>
+  </fam>
+  <fam id="F130">
+    <husb ref="R310" />
+    <wife ref="R311" />
+    <chil ref="R314" />
+    <marr />
+  </fam>
+  <fam id="F144">
+    <husb ref="R368" />
+    <wife ref="R367" />
+    <marr>
+      <date spec="Not exact" />
+    </marr>
+  </fam>
+  <fam id="F32">
+    <husb ref="R134" />
+    <wife ref="R135" />
+    <chil ref="R133" />
+    <marr />
+  </fam>
+  <fam id="F121">
+    <husb ref="R293" />
+    <wife ref="R294" />
+    <chil ref="R295" />
+    <marr>
+      <date />
+    </marr>
+  </fam>
+  <fam id="F63">
+    <husb ref="R199" />
+    <wife ref="R200" />
+    <chil ref="R198" />
+    <marr />
+  </fam>
+  <fam id="F101">
+    <husb ref="R256" />
+    <wife ref="R88" />
+    <marr>
+      <date>
+        <d>25</d>
+        <m>JUL</m>
+        <y>1554</y>
+      </date>
+      <plac>Cathedral, Winchester</plac>
+    </marr>
+  </fam>
+  <fam id="F182">
+    <husb ref="R102" />
+    <chil ref="R101" />
+  </fam>
+  <fam id="F226">
+    <husb ref="R380" />
+    <chil ref="R381" />
+  </fam>
+  <fam id="F212">
+    <husb ref="R345" />
+    <chil ref="R347" />
+  </fam>
+  <fam id="F52">
+    <husb ref="R182" />
+    <wife ref="R183" />
+    <chil ref="R181" />
+    <marr />
+  </fam>
+  <fam id="F164">
+    <husb ref="R431" />
+    <wife ref="R428" />
+    <marr>
+      <date spec="Not exact" />
+    </marr>
+  </fam>
+  <fam id="F150">
+    <husb ref="R395" />
+    <wife ref="R400" />
+    <chil ref="R405" />
+    <chil ref="R406" />
+    <chil ref="R407" />
+    <marr>
+      <date>
+        <d>3</d>
+        <m>FEB</m>
+        <y>1276</y>
+      </date>
+      <plac>Paris</plac>
+    </marr>
+  </fam>
+  <fam id="F196">
+    <husb ref="R242" />
+    <chil ref="R241" />
+  </fam>
+  <trlr />
+</gedcom>

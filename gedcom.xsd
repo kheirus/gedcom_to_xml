@@ -1,0 +1,234 @@
+<!-- 
+*******************************************************
+***** This DTD validates GEDCOM v 5.5.1 	   ********
+***** Copyright 2014 K. Ouelaa & R. Oubraim  ********
+******************************************************
+-->
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+
+
+<!-- GEDCOM : root element -->
+	<xsd:element name="gedcom">
+		<xsd:complexType>
+			<xsd:choice minOccurs="0" maxOccurs="unbounded">
+				<xsd:element name="head" type="Header" maxOccurs="1" minOccurs="0"/>
+				<xsd:element name="subm" type="Submitter" maxOccurs="1" minOccurs="0"/>
+				<xsd:element name="indi" type="Individual" maxOccurs="unbounded" minOccurs="1"/>
+				<xsd:element name="fam" type="Family" maxOccurs="1" minOccurs="0"/>
+				<xsd:element name="trlr" type="xsd:string" maxOccurs="1" minOccurs="0"/>
+			</xsd:choice>
+		</xsd:complexType>
+	</xsd:element>
+	
+<!-- HEAD : The head of the element -->
+	<xsd:complexType name="Header">
+		<xsd:choice minOccurs="0" maxOccurs="unbounded">
+			<xsd:element name="sour" type="xsd:string"/>
+			<xsd:element name="dest" type="xsd:string"/>
+			<xsd:element name="date" type="Date"/>
+			<xsd:element name="char" type="xsd:string"/>
+			<xsd:element name="file" type="xsd:string"/>
+			<xsd:element name="gedc" type="Gedc"/>
+		</xsd:choice>
+	</xsd:complexType>
+
+<!-- INDI : Inidivididual -->
+	
+	<xsd:complexType name="Individual">
+		<xsd:choice minOccurs="0" maxOccurs="unbounded">
+			<xsd:element name="name" type="Names" maxOccurs="1"/>
+			<xsd:element name="titl" type="xsd:string" maxOccurs="1"/>
+			<xsd:element name="sex" type="Sex" maxOccurs="1"/>
+			<xsd:element name="birt" type="Event" maxOccurs="1"/>
+			<xsd:element name="deat" type="Event" maxOccurs="1"/>
+			<xsd:element name="buri" type="Event" maxOccurs="1"/>
+			<xsd:element name="refn" type="Refn" maxOccurs="1"/>
+			<xsd:element name="chr" type="Event" maxOccurs="1"/>
+			<xsd:element name="famc" type="FamilyMemberShip" maxOccurs="1"/>
+			<xsd:element name="fams" type="FamilyMemberShip" maxOccurs="unbounded"/>
+			<xsd:element name="obje" type="Multimedia" maxOccurs="1"/>
+		</xsd:choice>
+		<xsd:attribute name="id" type="xsd:ID" use="required"/>
+	</xsd:complexType>
+
+<!-- FAM : Family -->
+	
+	<xsd:complexType name="Family">
+		<xsd:choice minOccurs="0" maxOccurs="unbounded">
+			<xsd:element name="husb" type="FamilyMember" maxOccurs="1"/>
+			<xsd:element name="wife" type="FamilyMember" maxOccurs="1"/>
+			<xsd:element name="chil" type="FamilyMember" maxOccurs="unbounded"/>
+			<xsd:element name="div" type="Divorce" maxOccurs="1"/>
+			<xsd:element name="marr" type="Event" maxOccurs="1"/>
+			<xsd:element name="obje" type="Multimedia" maxOccurs="1"/>
+		</xsd:choice>
+		<xsd:attribute name="id" type="xsd:ID" use="required"/>
+	</xsd:complexType>
+		
+<!-- FamilyMember (HUSB | WIFE | CHIL)-->
+	
+	<xsd:complexType name="FamilyMember">
+		<xsd:attribute name="ref" type="xsd:IDREF" use="required"/>
+	</xsd:complexType>
+
+
+<!-- FamilyMemberShip (FAMC|FAMs)-->
+	
+	<xsd:complexType name="FamilyMemberShip">
+		<xsd:attribute name="ref" type="xsd:IDREF" use="required"/>
+	</xsd:complexType>	
+
+<!-- DATE -->
+	<xsd:complexType name="Date">
+		<xsd:sequence>
+			<xsd:element name="d" minOccurs="0">
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:positiveInteger">
+						<xsd:minInclusive value="1"/>
+						<xsd:maxInclusive value="31"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:element>
+			<xsd:element name="m" minOccurs="0">
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:token">
+						<xsd:enumeration value="JAN"/>
+						<xsd:enumeration value="FEB"/>
+						<xsd:enumeration value="MAR"/>
+						<xsd:enumeration value="APR"/>
+						<xsd:enumeration value="MAY"/>
+						<xsd:enumeration value="JUN"/>
+						<xsd:enumeration value="JUL"/>
+						<xsd:enumeration value="AUG"/>
+						<xsd:enumeration value="SEP"/>
+						<xsd:enumeration value="OCT"/>
+						<xsd:enumeration value="NOV"/>
+						<xsd:enumeration value="DEC"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:element>
+			<xsd:element name="y" minOccurs="0">
+				<xsd:simpleType>
+					<xsd:restriction base="xsd:positiveInteger">
+						<xsd:minInclusive value="500"/>
+						<xsd:maxInclusive value="2999"/>
+					</xsd:restriction>
+				</xsd:simpleType>
+			</xsd:element>
+		</xsd:sequence>
+		<xsd:attribute name="spec" type="xsd:string" use="optional"/>
+	</xsd:complexType>
+
+<!-- NAMES : first and last name -->
+     <xsd:complexType name="Names">		
+     	    <xsd:sequence minOccurs="0" maxOccurs="unbounded">
+	          <xsd:element name="firstname" maxOccurs="1" minOccurs="0"/>
+		  <xsd:element name="lastname" maxOccurs="1" minOccurs="0"/>
+            </xsd:sequence>
+     </xsd:complexType>
+<!-- SEX -->
+	
+	<xsd:complexType name="Sex">
+		<xsd:attribute name="type">
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:token">
+					<xsd:enumeration value="M"/>
+					<xsd:enumeration value="F"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:complexType>
+	
+
+<!-- EVENT : Date and place of the event -->
+	
+	<xsd:complexType name="Event">
+		<xsd:choice maxOccurs="unbounded" minOccurs="0">
+			<xsd:element name="date" type="Date" maxOccurs="1"/>
+			<xsd:element name="plac" type="xsd:string" maxOccurs="1"/>
+		</xsd:choice>
+	</xsd:complexType>
+	
+<!-- OBJE : Added multimedia file -->
+
+	<xsd:complexType name="Multimedia">
+		<xsd:choice maxOccurs="unbounded" minOccurs="0">
+			<xsd:element name="file" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="form" minOccurs="0" maxOccurs="1"/>
+			<xsd:element name="titl" minOccurs="0" maxOccurs="1"/>
+		</xsd:choice>
+	</xsd:complexType>
+
+<!-- DIV : Divorce event -->
+	
+	<xsd:complexType name="Divorce">
+		<xsd:choice maxOccurs="1" minOccurs="0">
+			<xsd:element name="date" type="Date"/>
+			<xsd:element name="plac" type="xsd:string"/>
+		</xsd:choice>
+		<xsd:attribute name="isdiv">
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:token">
+					<xsd:enumeration value="Y"/>
+					<xsd:enumeration value="N"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+	</xsd:complexType>
+	
+
+<!-- SUBM : Information about submitters -->
+
+	<xsd:complexType name="Submitter">
+		<xsd:choice maxOccurs="unbounded" minOccurs="0">
+			<xsd:element name="sname" type="xsd:string"/>
+			<xsd:element name="phon" type="xsd:string"/>
+			<xsd:element name="addr" type="Adresse"/>
+			<xsd:element name="comm" type="xsd:string"/>
+		</xsd:choice>
+		<xsd:attribute name="id" type="xsd:ID"/>
+	</xsd:complexType>
+	
+
+<!-- ADDR : Adresse type -->
+
+	<xsd:complexType name="Adresse" mixed="true">
+		<xsd:choice minOccurs="0" maxOccurs="unbounded">
+			<xsd:element name="cont" type="xsd:string"/>
+		</xsd:choice>
+	</xsd:complexType>
+	
+<!-- String capitalized -->
+
+	<xsd:simpleType name="MajString">
+		<xsd:restriction base="xsd:token">
+			<xsd:pattern value="\p{Lu}.*"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<xsd:simpleType name="Maj">
+		<xsd:restriction base="xsd:token">
+			<xsd:pattern value="\p{Lu}.*"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+<!-- Refn : A description or number used to identify an item -->
+	<xsd:simpleType name="Refn">
+		<xsd:restriction base="xsd:string">
+			<xsd:pattern value="[A-Z]*[0-9]*" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+
+
+<!-- GEDC : Information about use of GEDCOM file -->
+	<xsd:complexType name="Gedc">
+		<xsd:choice>
+			<xsd:element name="vers" minOccurs="0" type="xsd:string"/>
+		</xsd:choice>
+	</xsd:complexType>
+
+
+</xsd:schema>

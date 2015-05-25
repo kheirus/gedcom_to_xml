@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gedcom SYSTEM "gedcom.dtd">
+<gedcom>
+  <head>
+    <sour>UNSPECIFIED</sour>
+    <char>ANSEL</char>
+  </head>
+  <indi id="I1">
+    <name>
+      <firstname>John</firstname>
+      <lastname>Begood</lastname>
+    </name>
+    <sex type="M" />
+    <fams ref="F1" />
+  </indi>
+  <indi id="I2">
+    <name>
+      <firstname>Ada</firstname>
+      <lastname>Begood</lastname>
+    </name>
+    <fams ref="F1" />
+  </indi>
+  <indi id="I3">
+    <name>
+      <lastname>Begood</lastname>
+    </name>
+    <famc ref="F1" />
+  </indi>
+  <indi id="I4">
+    <name>
+      <firstname>Lea</firstname>
+      <lastname>Begood</lastname>
+    </name>
+    <sex type="F" />
+    <famc ref="F1" />
+  </indi>
+  <fam id="F1">
+    <husb ref="I1" />
+    <wife ref="I2" />
+    <chil ref="I3" />
+    <chil ref="I4" />
+  </fam>
+  <trlr />
+</gedcom>

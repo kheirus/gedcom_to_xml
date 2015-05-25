@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gedcom SYSTEM "gedcom.dtd">
+<gedcom>
+  <head>
+    <sour>FTW</sour>
+    <dest>PAF</dest>
+    <date>
+      <d>10</d>
+      <m>APR</m>
+      <y>1999</y>
+    </date>
+    <file>doe.ged</file>
+    <char>ANSI</char>
+  </head>
+  <indi id="I01">
+    <name>
+      <firstname>John</firstname>
+      <lastname>Doe</lastname>
+    </name>
+    <sex type="M" />
+    <fams ref="F1" />
+    <birt>
+      <date>
+        <d>23</d>
+        <m>JAN</m>
+        <y>1961</y>
+      </date>
+      <plac>Australia</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>8</d>
+        <m>JUL</m>
+        <y>1988</y>
+      </date>
+      <plac>Scotland</plac>
+    </deat>
+  </indi>
+  <indi id="I02">
+    <name>
+      <firstname>Rosanna</firstname>
+      <lastname>Housewife</lastname>
+    </name>
+    <sex type="F" />
+    <fams ref="F1" />
+    <birt>
+      <date>
+        <d>15</d>
+        <m>DEC</m>
+        <y>1968</y>
+      </date>
+      <plac>Canada</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>8</d>
+        <m>JUL</m>
+        <y>1988</y>
+      </date>
+      <plac>Scotland</plac>
+    </deat>
+  </indi>
+  <indi id="I03">
+    <name>
+      <firstname>Joe</firstname>
+      <lastname>Doe</lastname>
+    </name>
+    <sex type="M" />
+    <famc ref="F1" />
+    <birt>
+      <date>
+        <d>15</d>
+        <m>JUN</m>
+        <y>1988</y>
+      </date>
+      <plac>United States</plac>
+    </birt>
+    <deat>
+      <date>
+        <d>8</d>
+        <m>JUL</m>
+        <y>1988</y>
+      </date>
+      <plac>Scotland</plac>
+    </deat>
+  </indi>
+  <fam id="F1">
+    <husb ref="I01" />
+    <wife ref="I02" />
+    <chil ref="I03" />
+    <marr>
+      <date>
+        <d>7</d>
+        <m>AUG</m>
+        <y>1987</y>
+      </date>
+      <plac>United States</plac>
+    </marr>
+  </fam>
+  <trlr />
+</gedcom>
